@@ -1,0 +1,1575 @@
+	title1	title2	distance
+0	Letters From Home	Letter From Home	0.9411764705882353
+1	Chrono Trigger	Chono Trigger	0.9285714285714286
+2	Atlantic	Atlantis	0.875
+3	Imagination	Imaginacion	0.9090909090909091
+4	Rockin' In Rhythm	Rockin in Rhythm	0.8823529411764706
+5	Suns & Moons	Sun & Moon	0.8333333333333334
+6	Live At Carnegie Hall	Live at Carnegie Hall	0.9523809523809523
+7	Don't Look Back	Dont Look Back	0.9333333333333333
+8	Tango Tango	Mango Tango	0.9090909090909091
+9	Card Captor Sakura V.4	Card Captor Sakura V.3	0.9545454545454546
+10	Best of	Best Of	0.8571428571428572
+11	Best of	best of	0.8571428571428572
+12	Dreams Come True	Dream Come True	0.9375
+13	Shakira Greatest Hits Karaoke CD+G Superstar Sound Tracks	Avril Lavigne Greatest Hits Karaoke CD+G Superstar Sound Tracks	0.8070175438596492
+14	Shakira Greatest Hits Karaoke CD+G Superstar Sound Tracks	ABBA Greatest Hits Karaoke CD+G Superstar Sound Tracks	0.8771929824561404
+15	Shostakovich: Symphonies Nos. 5 & 6	Shostakovich: Symphonies 5 & 9	0.8285714285714285
+16	Avril Lavigne Greatest Hits Karaoke CD+G Superstar Sound Tracks	ABBA Greatest Hits Karaoke CD+G Superstar Sound Tracks	0.8095238095238095
+17	Transition	Transitions	0.9
+18	City of Gold	City of God	0.9166666666666666
+19	One O`Clock Jump	One O'Clock Jump	0.9375
+20	String Quartet Tribute to Rem	String Quartet Tribute to Bjork	0.8275862068965517
+21	Acoustic	Acoustic.	0.875
+22	Working Man Blues	Worried Man Blues	0.8235294117647058
+23	Life & Love	Life - Live	0.8181818181818181
+24	Life & Love	Live & Love	0.9090909090909091
+25	Sound of Christmas	Sounds of Christmas	0.9444444444444444
+26	Love Sick, Pt. 1	Love Sick, Pt. 2	0.9375
+27	Symphonies 3 & 4	Symphonies 1 & 2	0.875
+28	Symphonies 3 & 4	Symphonies 25 & 40	0.8125
+29	Metal Massacre 7	Metal Massacre 6	0.9375
+30	Metal Massacre 7	Metal Massacre 4	0.9375
+31	Metal Massacre 7	Metal Massacre 3	0.9375
+32	Metal Massacre 7	Metal Massacre 2	0.9375
+33	Metal Massacre 6	Metal Massacre 4	0.9375
+34	Metal Massacre 6	Metal Massacre 3	0.9375
+35	Metal Massacre 6	Metal Massacre 2	0.9375
+36	Metal Massacre 4	Metal Massacre 3	0.9375
+37	Metal Massacre 4	Metal Massacre 2	0.9375
+38	Metal Massacre 3	Metal Massacre 2	0.9375
+39	Other Side of Love	Other Side of Me	0.8333333333333334
+40	Chicago Blues Session 14	Chicago Blues Session	0.875
+41	American Don	American Song	0.8333333333333334
+42	American Don	American Pop	0.8333333333333334
+43	American Don	American Icon	0.8333333333333334
+44	SUPPE: Overtures, Vol. 1	SUPPE: Overtures, Vol. 2	0.9583333333333334
+45	SUPPE: Overtures, Vol. 1	SUPPE: Overtures, Vol. 3	0.9583333333333334
+46	SUPPE: Overtures, Vol. 2	SUPPE: Overtures, Vol. 3	0.9583333333333334
+47	Momento	Momente	0.8571428571428572
+48	Momento	Moments	0.8571428571428572
+49	When A Man Loves A Woman	When a Man Loves a Woman	0.9166666666666666
+50	Canned Heat Pt.2	Canned Heat Pt. 1	0.875
+51	2CD Greatest Hits	His Greatest Hits	0.8235294117647058
+52	2CD Greatest Hits	30 Greatest Hits	0.8235294117647058
+53	2CD Greatest Hits	The Greatest Hits	0.8235294117647058
+54	There's Your Trouble Pt. 2	There's Your Trouble Pt. 1	0.9615384615384616
+55	HotWire	Hot Wire	0.8571428571428572
+56	Navigatore	Navigator	0.9
+57	24 Grandes Exitos	Grandes Exitos	0.8235294117647058
+58	24 Grandes Exitos	20 Grandes Exitos	0.9411764705882353
+59	24 Grandes Exitos	Oro Grandes Exitos	0.8235294117647058
+60	Palm World Voices: Vedic Path [CD, DVD, Book & Map]	Palm World Voices: Africa [CD, DVD, Book & Map]	0.8627450980392157
+61	Palm World Voices: Vedic Path [CD, DVD, Book & Map]	Palm World Voices: Baaba Maal [CD, DVD, Book & Map]	0.8431372549019608
+62	War Back Home	Way Back Home	0.9230769230769231
+63	Collection	Collections	0.9
+64	In His Time	In His Prime	0.8181818181818181
+65	Moussorgsky: Pictures at an Exhibition	Mussorgsky/Ravel: Pictures at an Exhibition	0.8157894736842105
+66	Moussorgsky: Pictures at an Exhibition	Mussorgsky: Pictures at an Exhibition	0.9736842105263158
+67	Simple Life	Simple Love	0.8181818181818181
+68	Arise [Vinyl]	Rise [Vinyl]	0.8461538461538461
+69	Long Life [Vinyl]	Pop Life [Vinyl]	0.8235294117647058
+70	Symphonies 1-3	Symphonies 1-6	0.9285714285714286
+71	Symphonies 1-3	Symphonies 1	0.8571428571428572
+72	Symphonies 1-3	Symphonien 1-4	0.8571428571428572
+73	Symphonies 1-3	Symphonies 1-9	0.9285714285714286
+74	Untitiled	Untitled	0.8888888888888888
+75	Original	Originals	0.875
+76	20 Supersucessos	20 Super Sucessos	0.875
+77	Speed Of Light	Speed of Light	0.9285714285714286
+78	String Quintets 3	String Quintets 2	0.9411764705882353
+79	String Quintets 3	String Quintets 1	0.9411764705882353
+80	Godfathers of Groove	Godfathers of Grunge	0.85
+81	DJ-Kicks	DJ Kicks	0.875
+82	String Quintets 2	String Quintets 1	0.9411764705882353
+83	Influences	Influence	0.9
+84	Collection 1985-1998	Collection 1956-1994	0.85
+85	Works for Sinfonietta	Works For Sinfonietta	0.9523809523809523
+86	Buxtehude: Vocal Music, Vol. 1	Buxtehude: Vocal Music, Vol. 2	0.9666666666666667
+87	Mozart: Piano Concertos Nos. 23 & 24	Mozart: Piano Concertos Nos. 14, 17 & 21	0.8055555555555556
+88	Wailing	Wailin	0.8571428571428572
+89	Trance Global Nation 3	Trance Global Nation 4	0.9545454545454546
+90	Mad About the Boy 14	Mad About the Boy 5	0.9
+91	Mad About the Boy 14	Mad About the Boy 7	0.9
+92	Tveitt: Piano Music, Vol. 1	Tveitt: Piano Music, Vol. 2	0.962962962962963
+93	Greatest Hits 1	Greatest Hits	0.8666666666666667
+94	Greatest Hits 1	Greatest Hits 3	0.9333333333333333
+95	Greatest Hits 1	Greatest Hits 1&2	0.8666666666666667
+96	Essentials	Essential	0.9
+97	Compilation	A Compilation	0.8181818181818181
+98	Greatest Hits	Greatest Hits 3	0.8461538461538461
+99	Reggae Gold 2002	Reggae Gold 2005	0.9375
+100	Maximum	Maxximum	0.8571428571428572
+101	Git It	Get It	0.8333333333333334
+102	Spanky's Greatest Hits	Santa's Greatest Hits	0.8636363636363636
+103	Spanky's Greatest Hits	Johnny's Greatest Hits	0.8181818181818181
+104	Spanky's Greatest Hits	Disney's Greatest Hits	0.8181818181818181
+105	Essential 1	Essential	0.8181818181818181
+106	Winterlight	Winter Light	0.8181818181818181
+107	Real Folk Blues	Real Folk Blue	0.9333333333333333
+108	Gay in the Life	Day in the Life	0.9333333333333333
+109	Rock County	Rock Country	0.9090909090909091
+110	Bach: Goldberg Variations	Bach: Goldberg-Variationen	0.88
+111	Recital	Recitals	0.8571428571428572
+112	Music for the Masses	Music for the Massive	0.85
+113	Send Your Love	Need Your Love	0.8571428571428572
+114	House of Lords	House of Cards	0.8571428571428572
+115	B Sides	3 Sides	0.8571428571428572
+116	B Sides	B-Sides	0.8571428571428572
+117	Inside	Insider	0.8333333333333334
+118	Best Friends	Best Friend	0.9166666666666666
+119	Best of the Best	Best of the West	0.9375
+120	Love Is the Bottom Line	Live at the Bottom Line	0.8695652173913043
+121	Cannonball 1	Cannonball	0.8333333333333334
+122	Japan Live 95	Japan Live '94	0.8461538461538461
+123	In the Mood	In the Cool	0.8181818181818181
+124	In the Mood	In the Blood	0.8181818181818181
+125	Peel Sessions	Peel Sessions 2	0.8461538461538461
+126	Appalachian Memories of Christmas	Appalachian Memories Christmas	0.9090909090909091
+127	20 Great Love Songs 50s & 60s Vol. 2	20 Great Love Songs 50s & 60s Vol. 1	0.9722222222222222
+128	Dragon Ball: Original USA TV Soundtrack Recording	Dragon Ball Z: Original USA TV Soundtrack Recording	0.9591836734693877
+129	20 Million Dollar Memories Vol. 2	20 Million Dollar Memories Vol. 1	0.9696969696969697
+130	The Art of Julius Katchen, Vol. 4	The Art of Julius Katchen, Vol. 5	0.9696969696969697
+131	Breakupdown	Breakdown	0.8181818181818181
+132	Writer's Block	Writers Block	0.9285714285714286
+133	Cry Me a River	Cry Me A River	0.9285714285714286
+134	Perceptions	Perception	0.9090909090909091
+135	Brandenburg Concertos Nos 1-6	Brandenburg Concertos 5 & 6	0.8275862068965517
+136	daddy's little girl	Daddy's Little Girl	0.8421052631578947
+137	Sweet Soulful Music	Sweet Soul Music	0.8421052631578947
+138	Cello Concerto	Cello Concertos	0.9285714285714286
+139	Ancient Tales	Ancient Tones	0.8461538461538461
+140	After the Reign	After the Rain	0.8666666666666667
+141	Silent Shout	Silent Shore	0.8333333333333334
+142	Easy Go French / Instructional	Easy Go Spanish / Instructional	0.8333333333333334
+143	Believe	Believer	0.8571428571428572
+144	Piano Sonatas	Piano Sonatas 3	0.8461538461538461
+145	Piano Sonatas	3 Piano Sonatas	0.8461538461538461
+146	Greetings from Hawaii	Greetings From Hawaii	0.9523809523809523
+147	Wild Animal Baby: A Tall Tail & Other Stories (2010)	Wild Animal Baby: Wow Wetland & Other Stories (2010)	0.8076923076923077
+148	National Anthems	National Anthem	0.9375
+149	Acoustic Fire	Acoustic Live	0.8461538461538461
+150	Beyond the Wall	Beyond the Pale	0.8666666666666667
+151	Last Session	Lost Session	0.9166666666666666
+152	Kiss of Fire	Kiss of Life	0.8333333333333334
+153	Step [Vinyl]	Star [Vinyl]	0.8333333333333334
+154	Neat Singles Collection 3	Neat Singles Collection 2	0.96
+155	Mystic Fire	Mystic Mile	0.8181818181818181
+156	COMMUNITY: A New Order Online Tribute	COMMUNITY EP: A New Order Online Tribute	0.9189189189189189
+157	Mahler: Symphony No. 9	Mahler: Symphony No.6	0.9090909090909091
+158	Mahler: Symphony No. 9	Mahler: Symphony No. 4	0.9545454545454546
+159	Mahler: Symphony No. 9	Mahler: Symphony No. 10	0.9090909090909091
+160	Mahler: Symphony No. 9	Mahler: Symphony No. 5	0.9545454545454546
+161	Back to Life	Back to Mine	0.8333333333333334
+162	Reflections	Reflection	0.9090909090909091
+163	Smetana: M Vlast	Smetana: Ma Vlast	0.9375
+164	Closer to Home	Close to Home	0.9285714285714286
+165	Three for All	Free for All	0.8461538461538461
+166	Holdin' On	Holding On	0.9
+167	Ses Plus Grands Succes	Ses Plus Grands Roles	0.8181818181818181
+168	Solo Concert	Koln Concert	0.8333333333333334
+169	Deep Blue	Deep Blues	0.8888888888888888
+170	Chaser	Chase	0.8333333333333334
+171	Right On Time	Right on Time	0.9230769230769231
+172	Can You Hear It	Can You Hear Me	0.8666666666666667
+173	Can You Hear It	Can You Hear It?	0.9333333333333333
+174	Concerto De Aranjuez	Concierto En Aranjuez	0.85
+175	Concerto De Aranjuez	Concerto de Aranjuez	0.95
+176	You Gotta Pay the Band	You Gotta Pay The Band	0.9545454545454546
+177	Jazz Round Midnight	Jazz 'Round Midnight	0.9473684210526316
+178	Karaoke: Dance Hits 3	Karaoke: Dance Hits 2	0.9523809523809523
+179	The Artistry of Stan Getz: The Best of the Verve Years, Vol. 1	The Artistry of Stan Getz: The Best of the Verve Years, Volume 2	0.935483870967742
+180	Beethoven: Piano Concertos Nos. 1 & 2	Beethoven: Piano Concertos Nos. 2 & 3	0.9459459459459459
+181	Beethoven: Piano Concertos Nos. 1 & 2	Beethoven: Piano Concertos 1 & 2	0.8648648648648649
+182	Beethoven: Piano Concertos Nos. 1 & 2	Beethoven: Piano Concertos No. 2 & 4	0.9189189189189189
+183	Greatest Hits and More	Greatest Hits & More	0.8636363636363636
+184	Christmas Cookin'	Christmas Cookies	0.8823529411764706
+185	'S Wonderful: The Gershwin Songbook	S'Wonderful: Gershwin Songbook	0.8285714285714285
+186	'S Wonderful: The Gershwin Songbook	S Wonderful:Gershwin Songbook	0.8285714285714285
+187	My Life Of Crime	A Life of Crime	0.8125
+188	Basie Plays the Blues	Basie Plays Blues	0.8095238095238095
+189	S'Wonderful: Gershwin Songbook	S Wonderful:Gershwin Songbook	0.9333333333333333
+190	Billie's Best	Billy's Best	0.8461538461538461
+191	Best of Limahl	Best Of Limahl	0.9285714285714286
+192	Verve Jazz Masters 13	Verve Jazz Masters 38	0.9047619047619048
+193	Verve Jazz Masters 13	Verve Jazz Masters 22	0.9047619047619048
+194	Verve Jazz Masters 13	Verve Jazz Masters 11	0.9523809523809523
+195	Verve Jazz Masters 13	Verve Jazz Masters 16	0.9523809523809523
+196	Verve Jazz Masters 13	Verve Jazz Masters 4	0.9047619047619048
+197	Verve Jazz Masters 13	Verve Jazz Masters 18	0.9523809523809523
+198	Verve Jazz Masters 13	Verve Jazz Masters 19	0.9523809523809523
+199	Verve Jazz Masters 13	Verve Jazz Masters 17	0.9523809523809523
+200	Verve Jazz Masters 13	Verve Jazz Masters 6	0.9047619047619048
+201	Verve Jazz Masters 13	Verve Jazz Masters 14	0.9523809523809523
+202	Verve Jazz Masters 13	Verve Jazz Masters 5	0.9047619047619048
+203	Verve Jazz Masters 13	Verve Jazz Masters 12	0.9523809523809523
+204	Verve Jazz Masters 13	Verve Jazz Masters 3	0.9523809523809523
+205	Verve Jazz Masters 13	Verve Jazz Masters 9	0.9047619047619048
+206	Verve Jazz Masters 13	Verve Jazz Masters 2	0.9047619047619048
+207	Verve Jazz Masters 13	Verve Jazz Masters 8	0.9047619047619048
+208	Verve Jazz Masters 13	Verve Jazz Masters 1	0.9523809523809523
+209	Verve Jazz Masters 13	Verve Jazz Masters 15	0.9523809523809523
+210	Verve Jazz Masters 13	Verve Jazz Masters 24	0.9047619047619048
+211	Verve Jazz Masters 13	Verve Jazz Masters 26	0.9047619047619048
+212	Verve Jazz Masters 13	Verve Jazz Masters 34	0.9047619047619048
+213	Verve Jazz Masters 13	Verve Jazz Masters 23	0.9523809523809523
+214	Verve Jazz Masters 13	Verve Jazz Masters 30	0.9047619047619048
+215	Verve Jazz Masters 13	Verve Jazz Masters 39	0.9047619047619048
+216	Verve Jazz Masters 13	Verve Jazz Masters 35	0.9047619047619048
+217	Verve Jazz Masters 13	Verve Jazz Masters 31	0.9047619047619048
+218	Verve Jazz Masters 13	Verve Jazz Masters 27	0.9047619047619048
+219	Verve Jazz Masters 13	Verve Jazz Masters 21	0.9047619047619048
+220	Verve Jazz Masters 13	Verve Jazz Masters 36	0.9047619047619048
+221	Verve Jazz Masters 13	Verve Jazz Masters 43	0.9523809523809523
+222	Verve Jazz Masters 13	Verve Jazz Masters 41	0.9047619047619048
+223	Verve Jazz Masters 13	Verve Jazz Masters 45	0.9047619047619048
+224	Verve Jazz Masters 13	Verve Jazz Masters 49	0.9047619047619048
+225	Verve Jazz Masters 13	Verve Jazz Masters 44	0.9047619047619048
+226	Verve Jazz Masters 13	Verve Jazz Masters 50	0.9047619047619048
+227	Verve Jazz Masters 13	Verve Jazz Masters 48	0.9047619047619048
+228	Artistry of Stan Getz: Best of Verve Years Vol 2	Artistry of Stan Getz: The Verve Years Vol 1	0.8333333333333334
+229	Nuestras 2	Nuestras 1	0.9
+230	Verve Jazz Masters 38	Verve Jazz Masters 22	0.9047619047619048
+231	Verve Jazz Masters 38	Verve Jazz Masters 11	0.9047619047619048
+232	Verve Jazz Masters 38	Verve Jazz Masters 16	0.9047619047619048
+233	Verve Jazz Masters 38	Verve Jazz Masters 4	0.9047619047619048
+234	Verve Jazz Masters 38	Verve Jazz Masters 18	0.9523809523809523
+235	Verve Jazz Masters 38	Verve Jazz Masters 19	0.9047619047619048
+236	Verve Jazz Masters 38	Verve Jazz Masters 17	0.9047619047619048
+237	Verve Jazz Masters 38	Verve Jazz Masters 6	0.9047619047619048
+238	Verve Jazz Masters 38	Verve Jazz Masters 14	0.9047619047619048
+239	Verve Jazz Masters 38	Verve Jazz Masters 5	0.9047619047619048
+240	Verve Jazz Masters 38	Verve Jazz Masters 12	0.9047619047619048
+241	Verve Jazz Masters 38	Verve Jazz Masters 3	0.9523809523809523
+242	Verve Jazz Masters 38	Verve Jazz Masters 9	0.9047619047619048
+243	Verve Jazz Masters 38	Verve Jazz Masters 2	0.9047619047619048
+244	Verve Jazz Masters 38	Verve Jazz Masters 8	0.9523809523809523
+245	Verve Jazz Masters 38	Verve Jazz Masters 1	0.9047619047619048
+246	Verve Jazz Masters 38	Verve Jazz Masters 15	0.9047619047619048
+247	Verve Jazz Masters 38	Verve Jazz Masters 24	0.9047619047619048
+248	Verve Jazz Masters 38	Verve Jazz Masters 26	0.9047619047619048
+249	Verve Jazz Masters 38	Verve Jazz Masters 34	0.9523809523809523
+250	Verve Jazz Masters 38	Verve Jazz Masters 23	0.9047619047619048
+251	Verve Jazz Masters 38	Verve Jazz Masters 30	0.9523809523809523
+252	Verve Jazz Masters 38	Verve Jazz Masters 39	0.9523809523809523
+253	Verve Jazz Masters 38	Verve Jazz Masters 35	0.9523809523809523
+254	Verve Jazz Masters 38	Verve Jazz Masters 31	0.9523809523809523
+255	Verve Jazz Masters 38	Verve Jazz Masters 27	0.9047619047619048
+256	Verve Jazz Masters 38	Verve Jazz Masters 21	0.9047619047619048
+257	Verve Jazz Masters 38	Verve Jazz Masters 36	0.9523809523809523
+258	Verve Jazz Masters 38	Verve Jazz Masters 43	0.9047619047619048
+259	Verve Jazz Masters 38	Verve Jazz Masters 41	0.9047619047619048
+260	Verve Jazz Masters 38	Verve Jazz Masters 45	0.9047619047619048
+261	Verve Jazz Masters 38	Verve Jazz Masters 49	0.9047619047619048
+262	Verve Jazz Masters 38	Verve Jazz Masters 44	0.9047619047619048
+263	Verve Jazz Masters 38	Verve Jazz Masters 50	0.9047619047619048
+264	Verve Jazz Masters 38	Verve Jazz Masters 48	0.9523809523809523
+265	Buddha-Lounge	Buddha Lounge	0.9230769230769231
+266	Alive & Kickin	Alive & Kicking	0.9285714285714286
+267	Verve Jazz Masters 22	Verve Jazz Masters 11	0.9047619047619048
+268	Verve Jazz Masters 22	Verve Jazz Masters 16	0.9047619047619048
+269	Verve Jazz Masters 22	Verve Jazz Masters 4	0.9047619047619048
+270	Verve Jazz Masters 22	Verve Jazz Masters 18	0.9047619047619048
+271	Verve Jazz Masters 22	Verve Jazz Masters 19	0.9047619047619048
+272	Verve Jazz Masters 22	Verve Jazz Masters 17	0.9047619047619048
+273	Verve Jazz Masters 22	Verve Jazz Masters 6	0.9047619047619048
+274	Verve Jazz Masters 22	Verve Jazz Masters 14	0.9047619047619048
+275	Verve Jazz Masters 22	Verve Jazz Masters 5	0.9047619047619048
+276	Verve Jazz Masters 22	Verve Jazz Masters 12	0.9523809523809523
+277	Verve Jazz Masters 22	Verve Jazz Masters 3	0.9047619047619048
+278	Verve Jazz Masters 22	Verve Jazz Masters 9	0.9047619047619048
+279	Verve Jazz Masters 22	Verve Jazz Masters 2	0.9523809523809523
+280	Verve Jazz Masters 22	Verve Jazz Masters 8	0.9047619047619048
+281	Verve Jazz Masters 22	Verve Jazz Masters 1	0.9047619047619048
+282	Verve Jazz Masters 22	Verve Jazz Masters 15	0.9047619047619048
+283	Verve Jazz Masters 22	Verve Jazz Masters 24	0.9523809523809523
+284	Verve Jazz Masters 22	Verve Jazz Masters 26	0.9523809523809523
+285	Verve Jazz Masters 22	Verve Jazz Masters 34	0.9047619047619048
+286	Verve Jazz Masters 22	Verve Jazz Masters 23	0.9523809523809523
+287	Verve Jazz Masters 22	Verve Jazz Masters 30	0.9047619047619048
+288	Verve Jazz Masters 22	Verve Jazz Masters 39	0.9047619047619048
+289	Verve Jazz Masters 22	Verve Jazz Masters 35	0.9047619047619048
+290	Verve Jazz Masters 22	Verve Jazz Masters 31	0.9047619047619048
+291	Verve Jazz Masters 22	Verve Jazz Masters 27	0.9523809523809523
+292	Verve Jazz Masters 22	Verve Jazz Masters 21	0.9523809523809523
+293	Verve Jazz Masters 22	Verve Jazz Masters 36	0.9047619047619048
+294	Verve Jazz Masters 22	Verve Jazz Masters 43	0.9047619047619048
+295	Verve Jazz Masters 22	Verve Jazz Masters 41	0.9047619047619048
+296	Verve Jazz Masters 22	Verve Jazz Masters 45	0.9047619047619048
+297	Verve Jazz Masters 22	Verve Jazz Masters 49	0.9047619047619048
+298	Verve Jazz Masters 22	Verve Jazz Masters 44	0.9047619047619048
+299	Verve Jazz Masters 22	Verve Jazz Masters 50	0.9047619047619048
+300	Verve Jazz Masters 22	Verve Jazz Masters 48	0.9047619047619048
+301	Verve Jazz Masters 11	Verve Jazz Masters 16	0.9523809523809523
+302	Verve Jazz Masters 11	Verve Jazz Masters 4	0.9047619047619048
+303	Verve Jazz Masters 11	Verve Jazz Masters 18	0.9523809523809523
+304	Verve Jazz Masters 11	Verve Jazz Masters 19	0.9523809523809523
+305	Verve Jazz Masters 11	Verve Jazz Masters 17	0.9523809523809523
+306	Verve Jazz Masters 11	Verve Jazz Masters 6	0.9047619047619048
+307	Verve Jazz Masters 11	Verve Jazz Masters 14	0.9523809523809523
+308	Verve Jazz Masters 11	Verve Jazz Masters 5	0.9047619047619048
+309	Verve Jazz Masters 11	Verve Jazz Masters 12	0.9523809523809523
+310	Verve Jazz Masters 11	Verve Jazz Masters 3	0.9047619047619048
+311	Verve Jazz Masters 11	Verve Jazz Masters 9	0.9047619047619048
+312	Verve Jazz Masters 11	Verve Jazz Masters 2	0.9047619047619048
+313	Verve Jazz Masters 11	Verve Jazz Masters 8	0.9047619047619048
+314	Verve Jazz Masters 11	Verve Jazz Masters 1	0.9523809523809523
+315	Verve Jazz Masters 11	Verve Jazz Masters 15	0.9523809523809523
+316	Verve Jazz Masters 11	Verve Jazz Masters 24	0.9047619047619048
+317	Verve Jazz Masters 11	Verve Jazz Masters 26	0.9047619047619048
+318	Verve Jazz Masters 11	Verve Jazz Masters 34	0.9047619047619048
+319	Verve Jazz Masters 11	Verve Jazz Masters 23	0.9047619047619048
+320	Verve Jazz Masters 11	Verve Jazz Masters 30	0.9047619047619048
+321	Verve Jazz Masters 11	Verve Jazz Masters 39	0.9047619047619048
+322	Verve Jazz Masters 11	Verve Jazz Masters 35	0.9047619047619048
+323	Verve Jazz Masters 11	Verve Jazz Masters 31	0.9523809523809523
+324	Verve Jazz Masters 11	Verve Jazz Masters 27	0.9047619047619048
+325	Verve Jazz Masters 11	Verve Jazz Masters 21	0.9523809523809523
+326	Verve Jazz Masters 11	Verve Jazz Masters 36	0.9047619047619048
+327	Verve Jazz Masters 11	Verve Jazz Masters 43	0.9047619047619048
+328	Verve Jazz Masters 11	Verve Jazz Masters 41	0.9523809523809523
+329	Verve Jazz Masters 11	Verve Jazz Masters 45	0.9047619047619048
+330	Verve Jazz Masters 11	Verve Jazz Masters 49	0.9047619047619048
+331	Verve Jazz Masters 11	Verve Jazz Masters 44	0.9047619047619048
+332	Verve Jazz Masters 11	Verve Jazz Masters 50	0.9047619047619048
+333	Verve Jazz Masters 11	Verve Jazz Masters 48	0.9047619047619048
+334	Once Upon a Summertime	Once Upon a Summer	0.8181818181818181
+335	Verve Jazz Masters 16	Verve Jazz Masters 4	0.9047619047619048
+336	Verve Jazz Masters 16	Verve Jazz Masters 18	0.9523809523809523
+337	Verve Jazz Masters 16	Verve Jazz Masters 19	0.9523809523809523
+338	Verve Jazz Masters 16	Verve Jazz Masters 17	0.9523809523809523
+339	Verve Jazz Masters 16	Verve Jazz Masters 6	0.9523809523809523
+340	Verve Jazz Masters 16	Verve Jazz Masters 14	0.9523809523809523
+341	Verve Jazz Masters 16	Verve Jazz Masters 5	0.9047619047619048
+342	Verve Jazz Masters 16	Verve Jazz Masters 12	0.9523809523809523
+343	Verve Jazz Masters 16	Verve Jazz Masters 3	0.9047619047619048
+344	Verve Jazz Masters 16	Verve Jazz Masters 9	0.9047619047619048
+345	Verve Jazz Masters 16	Verve Jazz Masters 2	0.9047619047619048
+346	Verve Jazz Masters 16	Verve Jazz Masters 8	0.9047619047619048
+347	Verve Jazz Masters 16	Verve Jazz Masters 1	0.9523809523809523
+348	Verve Jazz Masters 16	Verve Jazz Masters 15	0.9523809523809523
+349	Verve Jazz Masters 16	Verve Jazz Masters 24	0.9047619047619048
+350	Verve Jazz Masters 16	Verve Jazz Masters 26	0.9523809523809523
+351	Verve Jazz Masters 16	Verve Jazz Masters 34	0.9047619047619048
+352	Verve Jazz Masters 16	Verve Jazz Masters 23	0.9047619047619048
+353	Verve Jazz Masters 16	Verve Jazz Masters 30	0.9047619047619048
+354	Verve Jazz Masters 16	Verve Jazz Masters 39	0.9047619047619048
+355	Verve Jazz Masters 16	Verve Jazz Masters 35	0.9047619047619048
+356	Verve Jazz Masters 16	Verve Jazz Masters 31	0.9047619047619048
+357	Verve Jazz Masters 16	Verve Jazz Masters 27	0.9047619047619048
+358	Verve Jazz Masters 16	Verve Jazz Masters 21	0.9047619047619048
+359	Verve Jazz Masters 16	Verve Jazz Masters 36	0.9523809523809523
+360	Verve Jazz Masters 16	Verve Jazz Masters 43	0.9047619047619048
+361	Verve Jazz Masters 16	Verve Jazz Masters 41	0.9047619047619048
+362	Verve Jazz Masters 16	Verve Jazz Masters 45	0.9047619047619048
+363	Verve Jazz Masters 16	Verve Jazz Masters 49	0.9047619047619048
+364	Verve Jazz Masters 16	Verve Jazz Masters 44	0.9047619047619048
+365	Verve Jazz Masters 16	Verve Jazz Masters 50	0.9047619047619048
+366	Verve Jazz Masters 16	Verve Jazz Masters 48	0.9047619047619048
+367	20 Grandes Exitos	Oro Grandes Exitos	0.8235294117647058
+368	Verve Jazz Masters 4	Verve Jazz Masters 18	0.9
+369	Verve Jazz Masters 4	Verve Jazz Masters 19	0.9
+370	Verve Jazz Masters 4	Verve Jazz Masters 17	0.9
+371	Verve Jazz Masters 4	Verve Jazz Masters 6	0.95
+372	Verve Jazz Masters 4	Verve Jazz Masters 14	0.95
+373	Verve Jazz Masters 4	Verve Jazz Masters 5	0.95
+374	Verve Jazz Masters 4	Verve Jazz Masters 12	0.9
+375	Verve Jazz Masters 4	Verve Jazz Masters 3	0.95
+376	Verve Jazz Masters 4	Verve Jazz Masters 9	0.95
+377	Verve Jazz Masters 4	Verve Jazz Masters 2	0.95
+378	Verve Jazz Masters 4	Verve Jazz Masters 8	0.95
+379	Verve Jazz Masters 4	Verve Jazz Masters 1	0.95
+380	Verve Jazz Masters 4	Verve Jazz Masters 15	0.9
+381	Verve Jazz Masters 4	Verve Jazz Masters 24	0.95
+382	Verve Jazz Masters 4	Verve Jazz Masters 26	0.9
+383	Verve Jazz Masters 4	Verve Jazz Masters 34	0.95
+384	Verve Jazz Masters 4	Verve Jazz Masters 23	0.9
+385	Verve Jazz Masters 4	Verve Jazz Masters 30	0.9
+386	Verve Jazz Masters 4	Verve Jazz Masters 39	0.9
+387	Verve Jazz Masters 4	Verve Jazz Masters 35	0.9
+388	Verve Jazz Masters 4	Verve Jazz Masters 31	0.9
+389	Verve Jazz Masters 4	Verve Jazz Masters 27	0.9
+390	Verve Jazz Masters 4	Verve Jazz Masters 21	0.9
+391	Verve Jazz Masters 4	Verve Jazz Masters 36	0.9
+392	Verve Jazz Masters 4	Verve Jazz Masters 43	0.95
+393	Verve Jazz Masters 4	Verve Jazz Masters 41	0.95
+394	Verve Jazz Masters 4	Verve Jazz Masters 45	0.95
+395	Verve Jazz Masters 4	Verve Jazz Masters 49	0.95
+396	Verve Jazz Masters 4	Verve Jazz Masters 44	0.95
+397	Verve Jazz Masters 4	Verve Jazz Masters 50	0.9
+398	Verve Jazz Masters 4	Verve Jazz Masters 48	0.95
+399	Alma Caribena	Alma Caribe	0.8461538461538461
+400	Sugar [Vinyl]	Soar [Vinyl]	0.8461538461538461
+401	Sugar [Vinyl]	Star [Vinyl]	0.8461538461538461
+402	Verve Jazz Masters 18	Verve Jazz Masters 19	0.9523809523809523
+403	Verve Jazz Masters 18	Verve Jazz Masters 17	0.9523809523809523
+404	Verve Jazz Masters 18	Verve Jazz Masters 6	0.9047619047619048
+405	Verve Jazz Masters 18	Verve Jazz Masters 14	0.9523809523809523
+406	Verve Jazz Masters 18	Verve Jazz Masters 5	0.9047619047619048
+407	Verve Jazz Masters 18	Verve Jazz Masters 12	0.9523809523809523
+408	Verve Jazz Masters 18	Verve Jazz Masters 3	0.9047619047619048
+409	Verve Jazz Masters 18	Verve Jazz Masters 9	0.9047619047619048
+410	Verve Jazz Masters 18	Verve Jazz Masters 2	0.9047619047619048
+411	Verve Jazz Masters 18	Verve Jazz Masters 8	0.9523809523809523
+412	Verve Jazz Masters 18	Verve Jazz Masters 1	0.9523809523809523
+413	Verve Jazz Masters 18	Verve Jazz Masters 15	0.9523809523809523
+414	Verve Jazz Masters 18	Verve Jazz Masters 24	0.9047619047619048
+415	Verve Jazz Masters 18	Verve Jazz Masters 26	0.9047619047619048
+416	Verve Jazz Masters 18	Verve Jazz Masters 34	0.9047619047619048
+417	Verve Jazz Masters 18	Verve Jazz Masters 23	0.9047619047619048
+418	Verve Jazz Masters 18	Verve Jazz Masters 30	0.9047619047619048
+419	Verve Jazz Masters 18	Verve Jazz Masters 39	0.9047619047619048
+420	Verve Jazz Masters 18	Verve Jazz Masters 35	0.9047619047619048
+421	Verve Jazz Masters 18	Verve Jazz Masters 31	0.9047619047619048
+422	Verve Jazz Masters 18	Verve Jazz Masters 27	0.9047619047619048
+423	Verve Jazz Masters 18	Verve Jazz Masters 21	0.9047619047619048
+424	Verve Jazz Masters 18	Verve Jazz Masters 36	0.9047619047619048
+425	Verve Jazz Masters 18	Verve Jazz Masters 43	0.9047619047619048
+426	Verve Jazz Masters 18	Verve Jazz Masters 41	0.9047619047619048
+427	Verve Jazz Masters 18	Verve Jazz Masters 45	0.9047619047619048
+428	Verve Jazz Masters 18	Verve Jazz Masters 49	0.9047619047619048
+429	Verve Jazz Masters 18	Verve Jazz Masters 44	0.9047619047619048
+430	Verve Jazz Masters 18	Verve Jazz Masters 50	0.9047619047619048
+431	Verve Jazz Masters 18	Verve Jazz Masters 48	0.9523809523809523
+432	Straight to the Point	Straight to the Heart	0.8095238095238095
+433	Verve Jazz Masters 19	Verve Jazz Masters 17	0.9523809523809523
+434	Verve Jazz Masters 19	Verve Jazz Masters 6	0.9047619047619048
+435	Verve Jazz Masters 19	Verve Jazz Masters 14	0.9523809523809523
+436	Verve Jazz Masters 19	Verve Jazz Masters 5	0.9047619047619048
+437	Verve Jazz Masters 19	Verve Jazz Masters 12	0.9523809523809523
+438	Verve Jazz Masters 19	Verve Jazz Masters 3	0.9047619047619048
+439	Verve Jazz Masters 19	Verve Jazz Masters 9	0.9523809523809523
+440	Verve Jazz Masters 19	Verve Jazz Masters 2	0.9047619047619048
+441	Verve Jazz Masters 19	Verve Jazz Masters 8	0.9047619047619048
+442	Verve Jazz Masters 19	Verve Jazz Masters 1	0.9523809523809523
+443	Verve Jazz Masters 19	Verve Jazz Masters 15	0.9523809523809523
+444	Verve Jazz Masters 19	Verve Jazz Masters 24	0.9047619047619048
+445	Verve Jazz Masters 19	Verve Jazz Masters 26	0.9047619047619048
+446	Verve Jazz Masters 19	Verve Jazz Masters 34	0.9047619047619048
+447	Verve Jazz Masters 19	Verve Jazz Masters 23	0.9047619047619048
+448	Verve Jazz Masters 19	Verve Jazz Masters 30	0.9047619047619048
+449	Verve Jazz Masters 19	Verve Jazz Masters 39	0.9523809523809523
+450	Verve Jazz Masters 19	Verve Jazz Masters 35	0.9047619047619048
+451	Verve Jazz Masters 19	Verve Jazz Masters 31	0.9047619047619048
+452	Verve Jazz Masters 19	Verve Jazz Masters 27	0.9047619047619048
+453	Verve Jazz Masters 19	Verve Jazz Masters 21	0.9047619047619048
+454	Verve Jazz Masters 19	Verve Jazz Masters 36	0.9047619047619048
+455	Verve Jazz Masters 19	Verve Jazz Masters 43	0.9047619047619048
+456	Verve Jazz Masters 19	Verve Jazz Masters 41	0.9047619047619048
+457	Verve Jazz Masters 19	Verve Jazz Masters 45	0.9047619047619048
+458	Verve Jazz Masters 19	Verve Jazz Masters 49	0.9523809523809523
+459	Verve Jazz Masters 19	Verve Jazz Masters 44	0.9047619047619048
+460	Verve Jazz Masters 19	Verve Jazz Masters 50	0.9047619047619048
+461	Verve Jazz Masters 19	Verve Jazz Masters 48	0.9047619047619048
+462	Verve Jazz Masters 17	Verve Jazz Masters 6	0.9047619047619048
+463	Verve Jazz Masters 17	Verve Jazz Masters 14	0.9523809523809523
+464	Verve Jazz Masters 17	Verve Jazz Masters 5	0.9047619047619048
+465	Verve Jazz Masters 17	Verve Jazz Masters 12	0.9523809523809523
+466	Verve Jazz Masters 17	Verve Jazz Masters 3	0.9047619047619048
+467	Verve Jazz Masters 17	Verve Jazz Masters 9	0.9047619047619048
+468	Verve Jazz Masters 17	Verve Jazz Masters 2	0.9047619047619048
+469	Verve Jazz Masters 17	Verve Jazz Masters 8	0.9047619047619048
+470	Verve Jazz Masters 17	Verve Jazz Masters 1	0.9523809523809523
+471	Verve Jazz Masters 17	Verve Jazz Masters 15	0.9523809523809523
+472	Verve Jazz Masters 17	Verve Jazz Masters 24	0.9047619047619048
+473	Verve Jazz Masters 17	Verve Jazz Masters 26	0.9047619047619048
+474	Verve Jazz Masters 17	Verve Jazz Masters 34	0.9047619047619048
+475	Verve Jazz Masters 17	Verve Jazz Masters 23	0.9047619047619048
+476	Verve Jazz Masters 17	Verve Jazz Masters 30	0.9047619047619048
+477	Verve Jazz Masters 17	Verve Jazz Masters 39	0.9047619047619048
+478	Verve Jazz Masters 17	Verve Jazz Masters 35	0.9047619047619048
+479	Verve Jazz Masters 17	Verve Jazz Masters 31	0.9047619047619048
+480	Verve Jazz Masters 17	Verve Jazz Masters 27	0.9523809523809523
+481	Verve Jazz Masters 17	Verve Jazz Masters 21	0.9047619047619048
+482	Verve Jazz Masters 17	Verve Jazz Masters 36	0.9047619047619048
+483	Verve Jazz Masters 17	Verve Jazz Masters 43	0.9047619047619048
+484	Verve Jazz Masters 17	Verve Jazz Masters 41	0.9047619047619048
+485	Verve Jazz Masters 17	Verve Jazz Masters 45	0.9047619047619048
+486	Verve Jazz Masters 17	Verve Jazz Masters 49	0.9047619047619048
+487	Verve Jazz Masters 17	Verve Jazz Masters 44	0.9047619047619048
+488	Verve Jazz Masters 17	Verve Jazz Masters 50	0.9047619047619048
+489	Verve Jazz Masters 17	Verve Jazz Masters 48	0.9047619047619048
+490	Adventures in Radioland	Adventures in Radio	0.8260869565217391
+491	Getz/Gilberto #2	Getz/Gilberto	0.8125
+492	Verve Jazz Masters 6	Verve Jazz Masters 14	0.9
+493	Verve Jazz Masters 6	Verve Jazz Masters 5	0.95
+494	Verve Jazz Masters 6	Verve Jazz Masters 12	0.9
+495	Verve Jazz Masters 6	Verve Jazz Masters 3	0.95
+496	Verve Jazz Masters 6	Verve Jazz Masters 9	0.95
+497	Verve Jazz Masters 6	Verve Jazz Masters 2	0.95
+498	Verve Jazz Masters 6	Verve Jazz Masters 8	0.95
+499	Verve Jazz Masters 6	Verve Jazz Masters 1	0.95
+500	Verve Jazz Masters 6	Verve Jazz Masters 15	0.9
+501	Verve Jazz Masters 6	Verve Jazz Masters 24	0.9
+502	Verve Jazz Masters 6	Verve Jazz Masters 26	0.95
+503	Verve Jazz Masters 6	Verve Jazz Masters 34	0.9
+504	Verve Jazz Masters 6	Verve Jazz Masters 23	0.9
+505	Verve Jazz Masters 6	Verve Jazz Masters 30	0.9
+506	Verve Jazz Masters 6	Verve Jazz Masters 39	0.9
+507	Verve Jazz Masters 6	Verve Jazz Masters 35	0.9
+508	Verve Jazz Masters 6	Verve Jazz Masters 31	0.9
+509	Verve Jazz Masters 6	Verve Jazz Masters 27	0.9
+510	Verve Jazz Masters 6	Verve Jazz Masters 21	0.9
+511	Verve Jazz Masters 6	Verve Jazz Masters 36	0.95
+512	Verve Jazz Masters 6	Verve Jazz Masters 43	0.9
+513	Verve Jazz Masters 6	Verve Jazz Masters 41	0.9
+514	Verve Jazz Masters 6	Verve Jazz Masters 45	0.9
+515	Verve Jazz Masters 6	Verve Jazz Masters 49	0.9
+516	Verve Jazz Masters 6	Verve Jazz Masters 44	0.9
+517	Verve Jazz Masters 6	Verve Jazz Masters 50	0.9
+518	Verve Jazz Masters 6	Verve Jazz Masters 48	0.9
+519	Verve Jazz Masters 14	Verve Jazz Masters 5	0.9047619047619048
+520	Verve Jazz Masters 14	Verve Jazz Masters 12	0.9523809523809523
+521	Verve Jazz Masters 14	Verve Jazz Masters 3	0.9047619047619048
+522	Verve Jazz Masters 14	Verve Jazz Masters 9	0.9047619047619048
+523	Verve Jazz Masters 14	Verve Jazz Masters 2	0.9047619047619048
+524	Verve Jazz Masters 14	Verve Jazz Masters 8	0.9047619047619048
+525	Verve Jazz Masters 14	Verve Jazz Masters 1	0.9523809523809523
+526	Verve Jazz Masters 14	Verve Jazz Masters 15	0.9523809523809523
+527	Verve Jazz Masters 14	Verve Jazz Masters 24	0.9523809523809523
+528	Verve Jazz Masters 14	Verve Jazz Masters 26	0.9047619047619048
+529	Verve Jazz Masters 14	Verve Jazz Masters 34	0.9523809523809523
+530	Verve Jazz Masters 14	Verve Jazz Masters 23	0.9047619047619048
+531	Verve Jazz Masters 14	Verve Jazz Masters 30	0.9047619047619048
+532	Verve Jazz Masters 14	Verve Jazz Masters 39	0.9047619047619048
+533	Verve Jazz Masters 14	Verve Jazz Masters 35	0.9047619047619048
+534	Verve Jazz Masters 14	Verve Jazz Masters 31	0.9047619047619048
+535	Verve Jazz Masters 14	Verve Jazz Masters 27	0.9047619047619048
+536	Verve Jazz Masters 14	Verve Jazz Masters 21	0.9047619047619048
+537	Verve Jazz Masters 14	Verve Jazz Masters 36	0.9047619047619048
+538	Verve Jazz Masters 14	Verve Jazz Masters 43	0.9047619047619048
+539	Verve Jazz Masters 14	Verve Jazz Masters 41	0.9047619047619048
+540	Verve Jazz Masters 14	Verve Jazz Masters 45	0.9047619047619048
+541	Verve Jazz Masters 14	Verve Jazz Masters 49	0.9047619047619048
+542	Verve Jazz Masters 14	Verve Jazz Masters 44	0.9523809523809523
+543	Verve Jazz Masters 14	Verve Jazz Masters 50	0.9047619047619048
+544	Verve Jazz Masters 14	Verve Jazz Masters 48	0.9047619047619048
+545	Jazz at the Philharmonic 1949	Jazz at the Philharmonic	0.8275862068965517
+546	Verve Jazz Masters 5	Verve Jazz Masters 12	0.9
+547	Verve Jazz Masters 5	Verve Jazz Masters 3	0.95
+548	Verve Jazz Masters 5	Verve Jazz Masters 9	0.95
+549	Verve Jazz Masters 5	Verve Jazz Masters 2	0.95
+550	Verve Jazz Masters 5	Verve Jazz Masters 8	0.95
+551	Verve Jazz Masters 5	Verve Jazz Masters 1	0.95
+552	Verve Jazz Masters 5	Verve Jazz Masters 15	0.95
+553	Verve Jazz Masters 5	Verve Jazz Masters 24	0.9
+554	Verve Jazz Masters 5	Verve Jazz Masters 26	0.9
+555	Verve Jazz Masters 5	Verve Jazz Masters 34	0.9
+556	Verve Jazz Masters 5	Verve Jazz Masters 23	0.9
+557	Verve Jazz Masters 5	Verve Jazz Masters 30	0.9
+558	Verve Jazz Masters 5	Verve Jazz Masters 39	0.9
+559	Verve Jazz Masters 5	Verve Jazz Masters 35	0.95
+560	Verve Jazz Masters 5	Verve Jazz Masters 31	0.9
+561	Verve Jazz Masters 5	Verve Jazz Masters 27	0.9
+562	Verve Jazz Masters 5	Verve Jazz Masters 21	0.9
+563	Verve Jazz Masters 5	Verve Jazz Masters 36	0.9
+564	Verve Jazz Masters 5	Verve Jazz Masters 43	0.9
+565	Verve Jazz Masters 5	Verve Jazz Masters 41	0.9
+566	Verve Jazz Masters 5	Verve Jazz Masters 45	0.95
+567	Verve Jazz Masters 5	Verve Jazz Masters 49	0.9
+568	Verve Jazz Masters 5	Verve Jazz Masters 44	0.9
+569	Verve Jazz Masters 5	Verve Jazz Masters 50	0.95
+570	Verve Jazz Masters 5	Verve Jazz Masters 48	0.9
+571	Verve Jazz Masters 12	Verve Jazz Masters 3	0.9047619047619048
+572	Verve Jazz Masters 12	Verve Jazz Masters 9	0.9047619047619048
+573	Verve Jazz Masters 12	Verve Jazz Masters 2	0.9523809523809523
+574	Verve Jazz Masters 12	Verve Jazz Masters 8	0.9047619047619048
+575	Verve Jazz Masters 12	Verve Jazz Masters 1	0.9523809523809523
+576	Verve Jazz Masters 12	Verve Jazz Masters 15	0.9523809523809523
+577	Verve Jazz Masters 12	Verve Jazz Masters 24	0.9047619047619048
+578	Verve Jazz Masters 12	Verve Jazz Masters 26	0.9047619047619048
+579	Verve Jazz Masters 12	Verve Jazz Masters 34	0.9047619047619048
+580	Verve Jazz Masters 12	Verve Jazz Masters 23	0.9047619047619048
+581	Verve Jazz Masters 12	Verve Jazz Masters 30	0.9047619047619048
+582	Verve Jazz Masters 12	Verve Jazz Masters 39	0.9047619047619048
+583	Verve Jazz Masters 12	Verve Jazz Masters 35	0.9047619047619048
+584	Verve Jazz Masters 12	Verve Jazz Masters 31	0.9047619047619048
+585	Verve Jazz Masters 12	Verve Jazz Masters 27	0.9047619047619048
+586	Verve Jazz Masters 12	Verve Jazz Masters 21	0.9047619047619048
+587	Verve Jazz Masters 12	Verve Jazz Masters 36	0.9047619047619048
+588	Verve Jazz Masters 12	Verve Jazz Masters 43	0.9047619047619048
+589	Verve Jazz Masters 12	Verve Jazz Masters 41	0.9047619047619048
+590	Verve Jazz Masters 12	Verve Jazz Masters 45	0.9047619047619048
+591	Verve Jazz Masters 12	Verve Jazz Masters 49	0.9047619047619048
+592	Verve Jazz Masters 12	Verve Jazz Masters 44	0.9047619047619048
+593	Verve Jazz Masters 12	Verve Jazz Masters 50	0.9047619047619048
+594	Verve Jazz Masters 12	Verve Jazz Masters 48	0.9047619047619048
+595	At The Village Vanguard	At the Village Vanguard	0.9565217391304348
+596	Verve Jazz Masters 3	Verve Jazz Masters 9	0.95
+597	Verve Jazz Masters 3	Verve Jazz Masters 2	0.95
+598	Verve Jazz Masters 3	Verve Jazz Masters 8	0.95
+599	Verve Jazz Masters 3	Verve Jazz Masters 1	0.95
+600	Verve Jazz Masters 3	Verve Jazz Masters 15	0.9
+601	Verve Jazz Masters 3	Verve Jazz Masters 24	0.9
+602	Verve Jazz Masters 3	Verve Jazz Masters 26	0.9
+603	Verve Jazz Masters 3	Verve Jazz Masters 34	0.95
+604	Verve Jazz Masters 3	Verve Jazz Masters 23	0.95
+605	Verve Jazz Masters 3	Verve Jazz Masters 30	0.95
+606	Verve Jazz Masters 3	Verve Jazz Masters 39	0.95
+607	Verve Jazz Masters 3	Verve Jazz Masters 35	0.95
+608	Verve Jazz Masters 3	Verve Jazz Masters 31	0.95
+609	Verve Jazz Masters 3	Verve Jazz Masters 27	0.9
+610	Verve Jazz Masters 3	Verve Jazz Masters 21	0.9
+611	Verve Jazz Masters 3	Verve Jazz Masters 36	0.95
+612	Verve Jazz Masters 3	Verve Jazz Masters 43	0.95
+613	Verve Jazz Masters 3	Verve Jazz Masters 41	0.9
+614	Verve Jazz Masters 3	Verve Jazz Masters 45	0.9
+615	Verve Jazz Masters 3	Verve Jazz Masters 49	0.9
+616	Verve Jazz Masters 3	Verve Jazz Masters 44	0.9
+617	Verve Jazz Masters 3	Verve Jazz Masters 50	0.9
+618	Verve Jazz Masters 3	Verve Jazz Masters 48	0.9
+619	Verve Jazz Masters 9	Verve Jazz Masters 2	0.95
+620	Verve Jazz Masters 9	Verve Jazz Masters 8	0.95
+621	Verve Jazz Masters 9	Verve Jazz Masters 1	0.95
+622	Verve Jazz Masters 9	Verve Jazz Masters 15	0.9
+623	Verve Jazz Masters 9	Verve Jazz Masters 24	0.9
+624	Verve Jazz Masters 9	Verve Jazz Masters 26	0.9
+625	Verve Jazz Masters 9	Verve Jazz Masters 34	0.9
+626	Verve Jazz Masters 9	Verve Jazz Masters 23	0.9
+627	Verve Jazz Masters 9	Verve Jazz Masters 30	0.9
+628	Verve Jazz Masters 9	Verve Jazz Masters 39	0.95
+629	Verve Jazz Masters 9	Verve Jazz Masters 35	0.9
+630	Verve Jazz Masters 9	Verve Jazz Masters 31	0.9
+631	Verve Jazz Masters 9	Verve Jazz Masters 27	0.9
+632	Verve Jazz Masters 9	Verve Jazz Masters 21	0.9
+633	Verve Jazz Masters 9	Verve Jazz Masters 36	0.9
+634	Verve Jazz Masters 9	Verve Jazz Masters 43	0.9
+635	Verve Jazz Masters 9	Verve Jazz Masters 41	0.9
+636	Verve Jazz Masters 9	Verve Jazz Masters 45	0.9
+637	Verve Jazz Masters 9	Verve Jazz Masters 49	0.95
+638	Verve Jazz Masters 9	Verve Jazz Masters 44	0.9
+639	Verve Jazz Masters 9	Verve Jazz Masters 50	0.9
+640	Verve Jazz Masters 9	Verve Jazz Masters 48	0.9
+641	Verve Jazz Masters 2	Verve Jazz Masters 8	0.95
+642	Verve Jazz Masters 2	Verve Jazz Masters 1	0.95
+643	Verve Jazz Masters 2	Verve Jazz Masters 15	0.9
+644	Verve Jazz Masters 2	Verve Jazz Masters 24	0.95
+645	Verve Jazz Masters 2	Verve Jazz Masters 26	0.95
+646	Verve Jazz Masters 2	Verve Jazz Masters 34	0.9
+647	Verve Jazz Masters 2	Verve Jazz Masters 23	0.95
+648	Verve Jazz Masters 2	Verve Jazz Masters 30	0.9
+649	Verve Jazz Masters 2	Verve Jazz Masters 39	0.9
+650	Verve Jazz Masters 2	Verve Jazz Masters 35	0.9
+651	Verve Jazz Masters 2	Verve Jazz Masters 31	0.9
+652	Verve Jazz Masters 2	Verve Jazz Masters 27	0.95
+653	Verve Jazz Masters 2	Verve Jazz Masters 21	0.95
+654	Verve Jazz Masters 2	Verve Jazz Masters 36	0.9
+655	Verve Jazz Masters 2	Verve Jazz Masters 43	0.9
+656	Verve Jazz Masters 2	Verve Jazz Masters 41	0.9
+657	Verve Jazz Masters 2	Verve Jazz Masters 45	0.9
+658	Verve Jazz Masters 2	Verve Jazz Masters 49	0.9
+659	Verve Jazz Masters 2	Verve Jazz Masters 44	0.9
+660	Verve Jazz Masters 2	Verve Jazz Masters 50	0.9
+661	Verve Jazz Masters 2	Verve Jazz Masters 48	0.9
+662	Verve Jazz Masters 8	Verve Jazz Masters 1	0.95
+663	Verve Jazz Masters 8	Verve Jazz Masters 15	0.9
+664	Verve Jazz Masters 8	Verve Jazz Masters 24	0.9
+665	Verve Jazz Masters 8	Verve Jazz Masters 26	0.9
+666	Verve Jazz Masters 8	Verve Jazz Masters 34	0.9
+667	Verve Jazz Masters 8	Verve Jazz Masters 23	0.9
+668	Verve Jazz Masters 8	Verve Jazz Masters 30	0.9
+669	Verve Jazz Masters 8	Verve Jazz Masters 39	0.9
+670	Verve Jazz Masters 8	Verve Jazz Masters 35	0.9
+671	Verve Jazz Masters 8	Verve Jazz Masters 31	0.9
+672	Verve Jazz Masters 8	Verve Jazz Masters 27	0.9
+673	Verve Jazz Masters 8	Verve Jazz Masters 21	0.9
+674	Verve Jazz Masters 8	Verve Jazz Masters 36	0.9
+675	Verve Jazz Masters 8	Verve Jazz Masters 43	0.9
+676	Verve Jazz Masters 8	Verve Jazz Masters 41	0.9
+677	Verve Jazz Masters 8	Verve Jazz Masters 45	0.9
+678	Verve Jazz Masters 8	Verve Jazz Masters 49	0.9
+679	Verve Jazz Masters 8	Verve Jazz Masters 44	0.9
+680	Verve Jazz Masters 8	Verve Jazz Masters 50	0.9
+681	Verve Jazz Masters 8	Verve Jazz Masters 48	0.95
+682	Verve Jazz Masters 1	Verve Jazz Masters 15	0.95
+683	Verve Jazz Masters 1	Verve Jazz Masters 24	0.9
+684	Verve Jazz Masters 1	Verve Jazz Masters 26	0.9
+685	Verve Jazz Masters 1	Verve Jazz Masters 34	0.9
+686	Verve Jazz Masters 1	Verve Jazz Masters 23	0.9
+687	Verve Jazz Masters 1	Verve Jazz Masters 30	0.9
+688	Verve Jazz Masters 1	Verve Jazz Masters 39	0.9
+689	Verve Jazz Masters 1	Verve Jazz Masters 35	0.9
+690	Verve Jazz Masters 1	Verve Jazz Masters 31	0.95
+691	Verve Jazz Masters 1	Verve Jazz Masters 27	0.9
+692	Verve Jazz Masters 1	Verve Jazz Masters 21	0.95
+693	Verve Jazz Masters 1	Verve Jazz Masters 36	0.9
+694	Verve Jazz Masters 1	Verve Jazz Masters 43	0.9
+695	Verve Jazz Masters 1	Verve Jazz Masters 41	0.95
+696	Verve Jazz Masters 1	Verve Jazz Masters 45	0.9
+697	Verve Jazz Masters 1	Verve Jazz Masters 49	0.9
+698	Verve Jazz Masters 1	Verve Jazz Masters 44	0.9
+699	Verve Jazz Masters 1	Verve Jazz Masters 50	0.9
+700	Verve Jazz Masters 1	Verve Jazz Masters 48	0.9
+701	Verve Jazz Masters 15	Verve Jazz Masters 24	0.9047619047619048
+702	Verve Jazz Masters 15	Verve Jazz Masters 26	0.9047619047619048
+703	Verve Jazz Masters 15	Verve Jazz Masters 34	0.9047619047619048
+704	Verve Jazz Masters 15	Verve Jazz Masters 23	0.9047619047619048
+705	Verve Jazz Masters 15	Verve Jazz Masters 30	0.9047619047619048
+706	Verve Jazz Masters 15	Verve Jazz Masters 39	0.9047619047619048
+707	Verve Jazz Masters 15	Verve Jazz Masters 35	0.9523809523809523
+708	Verve Jazz Masters 15	Verve Jazz Masters 31	0.9047619047619048
+709	Verve Jazz Masters 15	Verve Jazz Masters 27	0.9047619047619048
+710	Verve Jazz Masters 15	Verve Jazz Masters 21	0.9047619047619048
+711	Verve Jazz Masters 15	Verve Jazz Masters 36	0.9047619047619048
+712	Verve Jazz Masters 15	Verve Jazz Masters 43	0.9047619047619048
+713	Verve Jazz Masters 15	Verve Jazz Masters 41	0.9047619047619048
+714	Verve Jazz Masters 15	Verve Jazz Masters 45	0.9523809523809523
+715	Verve Jazz Masters 15	Verve Jazz Masters 49	0.9047619047619048
+716	Verve Jazz Masters 15	Verve Jazz Masters 44	0.9047619047619048
+717	Verve Jazz Masters 15	Verve Jazz Masters 50	0.9047619047619048
+718	Verve Jazz Masters 15	Verve Jazz Masters 48	0.9047619047619048
+719	Living The Blues	Living the Blues	0.9375
+720	Living The Blues	Leaving The Blue	0.8125
+721	The Gift [Vinyl]	The Wind [Vinyl]	0.8125
+722	The Gift [Vinyl]	The Life [Vinyl]	0.875
+723	Ella Fitzgerald Sings the Rodgers & Hart Songbook, Vol. 2	Ella Fitzgerald Sings the Rodgers & Hart Songbook, Vol. 1	0.9824561403508771
+724	Ella Fitzgerald Sings the Rodgers & Hart Songbook, Vol. 2	Ella Fitzgerald Sings the Cole Porter Songbook, Vol. 2	0.8070175438596492
+725	Ella Fitzgerald Sings the Rodgers & Hart Songbook, Vol. 1	Ella Fitzgerald Sings the Cole Porter Songbook, Vol. 1	0.8070175438596492
+726	Spriggan [Original Motion Picture Soundtrack]	Ghost [Original Motion Picture Soundtrack]	0.8222222222222222
+727	Spriggan [Original Motion Picture Soundtrack]	Backdraft [Original Motion Picture Soundtrack]	0.8222222222222222
+728	Spriggan [Original Motion Picture Soundtrack]	Dogma (Original Motion Picture Soundtrack)	0.8222222222222222
+729	Verve Jazz Masters 24	Verve Jazz Masters 26	0.9523809523809523
+730	Verve Jazz Masters 24	Verve Jazz Masters 34	0.9523809523809523
+731	Verve Jazz Masters 24	Verve Jazz Masters 23	0.9523809523809523
+732	Verve Jazz Masters 24	Verve Jazz Masters 30	0.9047619047619048
+733	Verve Jazz Masters 24	Verve Jazz Masters 39	0.9047619047619048
+734	Verve Jazz Masters 24	Verve Jazz Masters 35	0.9047619047619048
+735	Verve Jazz Masters 24	Verve Jazz Masters 31	0.9047619047619048
+736	Verve Jazz Masters 24	Verve Jazz Masters 27	0.9523809523809523
+737	Verve Jazz Masters 24	Verve Jazz Masters 21	0.9523809523809523
+738	Verve Jazz Masters 24	Verve Jazz Masters 36	0.9047619047619048
+739	Verve Jazz Masters 24	Verve Jazz Masters 43	0.9047619047619048
+740	Verve Jazz Masters 24	Verve Jazz Masters 41	0.9047619047619048
+741	Verve Jazz Masters 24	Verve Jazz Masters 45	0.9047619047619048
+742	Verve Jazz Masters 24	Verve Jazz Masters 49	0.9047619047619048
+743	Verve Jazz Masters 24	Verve Jazz Masters 44	0.9523809523809523
+744	Verve Jazz Masters 24	Verve Jazz Masters 50	0.9047619047619048
+745	Verve Jazz Masters 24	Verve Jazz Masters 48	0.9047619047619048
+746	Nothin But the Truth	Nothin' But the Truth	0.95
+747	Live At Home	Live at Home	0.9166666666666666
+748	Nothing But The Blues	Nothin' But the Blues	0.9047619047619048
+749	Nothin' But the Truth	Nothin' But the Blues	0.8095238095238095
+750	Verve Jazz Masters 26	Verve Jazz Masters 34	0.9047619047619048
+751	Verve Jazz Masters 26	Verve Jazz Masters 23	0.9523809523809523
+752	Verve Jazz Masters 26	Verve Jazz Masters 30	0.9047619047619048
+753	Verve Jazz Masters 26	Verve Jazz Masters 39	0.9047619047619048
+754	Verve Jazz Masters 26	Verve Jazz Masters 35	0.9047619047619048
+755	Verve Jazz Masters 26	Verve Jazz Masters 31	0.9047619047619048
+756	Verve Jazz Masters 26	Verve Jazz Masters 27	0.9523809523809523
+757	Verve Jazz Masters 26	Verve Jazz Masters 21	0.9523809523809523
+758	Verve Jazz Masters 26	Verve Jazz Masters 36	0.9523809523809523
+759	Verve Jazz Masters 26	Verve Jazz Masters 43	0.9047619047619048
+760	Verve Jazz Masters 26	Verve Jazz Masters 41	0.9047619047619048
+761	Verve Jazz Masters 26	Verve Jazz Masters 45	0.9047619047619048
+762	Verve Jazz Masters 26	Verve Jazz Masters 49	0.9047619047619048
+763	Verve Jazz Masters 26	Verve Jazz Masters 44	0.9047619047619048
+764	Verve Jazz Masters 26	Verve Jazz Masters 50	0.9047619047619048
+765	Verve Jazz Masters 26	Verve Jazz Masters 48	0.9047619047619048
+766	Verve Jazz Masters 34	Verve Jazz Masters 23	0.9047619047619048
+767	Verve Jazz Masters 34	Verve Jazz Masters 30	0.9523809523809523
+768	Verve Jazz Masters 34	Verve Jazz Masters 39	0.9523809523809523
+769	Verve Jazz Masters 34	Verve Jazz Masters 35	0.9523809523809523
+770	Verve Jazz Masters 34	Verve Jazz Masters 31	0.9523809523809523
+771	Verve Jazz Masters 34	Verve Jazz Masters 27	0.9047619047619048
+772	Verve Jazz Masters 34	Verve Jazz Masters 21	0.9047619047619048
+773	Verve Jazz Masters 34	Verve Jazz Masters 36	0.9523809523809523
+774	Verve Jazz Masters 34	Verve Jazz Masters 43	0.9047619047619048
+775	Verve Jazz Masters 34	Verve Jazz Masters 41	0.9047619047619048
+776	Verve Jazz Masters 34	Verve Jazz Masters 45	0.9047619047619048
+777	Verve Jazz Masters 34	Verve Jazz Masters 49	0.9047619047619048
+778	Verve Jazz Masters 34	Verve Jazz Masters 44	0.9523809523809523
+779	Verve Jazz Masters 34	Verve Jazz Masters 50	0.9047619047619048
+780	Verve Jazz Masters 34	Verve Jazz Masters 48	0.9047619047619048
+781	Leyendas	Leyenda	0.875
+782	Grandes Compositores 3	Grandes Compositores 2	0.9545454545454546
+783	S Marvelous: Gershwin Songbook	'S Marvelous: The Gershwin Songbook	0.8333333333333334
+784	Getz Au Go Go	Getz Au-Go-Go	0.8461538461538461
+785	Live at the Half Note	Live at the Blue Note	0.8095238095238095
+786	Ella Fitzgerald Sings the Cole Porter Songbook, Vol. 2	Ella Fitzgerald Sings the Cole Porter Songbook, Vol. 1	0.9814814814814815
+787	Verve Jazz Masters 23	Verve Jazz Masters 30	0.9047619047619048
+788	Verve Jazz Masters 23	Verve Jazz Masters 39	0.9047619047619048
+789	Verve Jazz Masters 23	Verve Jazz Masters 35	0.9047619047619048
+790	Verve Jazz Masters 23	Verve Jazz Masters 31	0.9047619047619048
+791	Verve Jazz Masters 23	Verve Jazz Masters 27	0.9523809523809523
+792	Verve Jazz Masters 23	Verve Jazz Masters 21	0.9523809523809523
+793	Verve Jazz Masters 23	Verve Jazz Masters 36	0.9047619047619048
+794	Verve Jazz Masters 23	Verve Jazz Masters 43	0.9523809523809523
+795	Verve Jazz Masters 23	Verve Jazz Masters 41	0.9047619047619048
+796	Verve Jazz Masters 23	Verve Jazz Masters 45	0.9047619047619048
+797	Verve Jazz Masters 23	Verve Jazz Masters 49	0.9047619047619048
+798	Verve Jazz Masters 23	Verve Jazz Masters 44	0.9047619047619048
+799	Verve Jazz Masters 23	Verve Jazz Masters 50	0.9047619047619048
+800	Verve Jazz Masters 23	Verve Jazz Masters 48	0.9047619047619048
+801	Oy Chanukah!	Oy Chanukah	0.9166666666666666
+802	Bill Evans Trio with Symphony Orchestra	Bill Evans With Symphony Orchestra	0.8461538461538461
+803	Verve Jazz Masters 30	Verve Jazz Masters 39	0.9523809523809523
+804	Verve Jazz Masters 30	Verve Jazz Masters 35	0.9523809523809523
+805	Verve Jazz Masters 30	Verve Jazz Masters 31	0.9523809523809523
+806	Verve Jazz Masters 30	Verve Jazz Masters 27	0.9047619047619048
+807	Verve Jazz Masters 30	Verve Jazz Masters 21	0.9047619047619048
+808	Verve Jazz Masters 30	Verve Jazz Masters 36	0.9523809523809523
+809	Verve Jazz Masters 30	Verve Jazz Masters 43	0.9047619047619048
+810	Verve Jazz Masters 30	Verve Jazz Masters 41	0.9047619047619048
+811	Verve Jazz Masters 30	Verve Jazz Masters 45	0.9047619047619048
+812	Verve Jazz Masters 30	Verve Jazz Masters 49	0.9047619047619048
+813	Verve Jazz Masters 30	Verve Jazz Masters 44	0.9047619047619048
+814	Verve Jazz Masters 30	Verve Jazz Masters 50	0.9523809523809523
+815	Verve Jazz Masters 30	Verve Jazz Masters 48	0.9047619047619048
+816	Ambient Lounge 7	Ambient Lounge 1	0.9375
+817	Bookeroo	Bookeroo!	0.875
+818	Verve Jazz Masters 39	Verve Jazz Masters 35	0.9523809523809523
+819	Verve Jazz Masters 39	Verve Jazz Masters 31	0.9523809523809523
+820	Verve Jazz Masters 39	Verve Jazz Masters 27	0.9047619047619048
+821	Verve Jazz Masters 39	Verve Jazz Masters 21	0.9047619047619048
+822	Verve Jazz Masters 39	Verve Jazz Masters 36	0.9523809523809523
+823	Verve Jazz Masters 39	Verve Jazz Masters 43	0.9047619047619048
+824	Verve Jazz Masters 39	Verve Jazz Masters 41	0.9047619047619048
+825	Verve Jazz Masters 39	Verve Jazz Masters 45	0.9047619047619048
+826	Verve Jazz Masters 39	Verve Jazz Masters 49	0.9523809523809523
+827	Verve Jazz Masters 39	Verve Jazz Masters 44	0.9047619047619048
+828	Verve Jazz Masters 39	Verve Jazz Masters 50	0.9047619047619048
+829	Verve Jazz Masters 39	Verve Jazz Masters 48	0.9047619047619048
+830	It's in Our Hands 1	It's In Our Hands	0.8421052631578947
+831	It's in Our Hands 1	It's in Our Hands	0.8947368421052632
+832	Verve Jazz Masters 35	Verve Jazz Masters 31	0.9523809523809523
+833	Verve Jazz Masters 35	Verve Jazz Masters 27	0.9047619047619048
+834	Verve Jazz Masters 35	Verve Jazz Masters 21	0.9047619047619048
+835	Verve Jazz Masters 35	Verve Jazz Masters 36	0.9523809523809523
+836	Verve Jazz Masters 35	Verve Jazz Masters 43	0.9047619047619048
+837	Verve Jazz Masters 35	Verve Jazz Masters 41	0.9047619047619048
+838	Verve Jazz Masters 35	Verve Jazz Masters 45	0.9523809523809523
+839	Verve Jazz Masters 35	Verve Jazz Masters 49	0.9047619047619048
+840	Verve Jazz Masters 35	Verve Jazz Masters 44	0.9047619047619048
+841	Verve Jazz Masters 35	Verve Jazz Masters 50	0.9047619047619048
+842	Verve Jazz Masters 35	Verve Jazz Masters 48	0.9047619047619048
+843	It's In Our Hands	It's in Our Hands	0.9411764705882353
+844	Verve Jazz Masters 31	Verve Jazz Masters 27	0.9047619047619048
+845	Verve Jazz Masters 31	Verve Jazz Masters 21	0.9523809523809523
+846	Verve Jazz Masters 31	Verve Jazz Masters 36	0.9523809523809523
+847	Verve Jazz Masters 31	Verve Jazz Masters 43	0.9047619047619048
+848	Verve Jazz Masters 31	Verve Jazz Masters 41	0.9523809523809523
+849	Verve Jazz Masters 31	Verve Jazz Masters 45	0.9047619047619048
+850	Verve Jazz Masters 31	Verve Jazz Masters 49	0.9047619047619048
+851	Verve Jazz Masters 31	Verve Jazz Masters 44	0.9047619047619048
+852	Verve Jazz Masters 31	Verve Jazz Masters 50	0.9047619047619048
+853	Verve Jazz Masters 31	Verve Jazz Masters 48	0.9047619047619048
+854	I've Got A Rock In My Sock	I've Got a Rock in My Sock	0.9230769230769231
+855	Verve Jazz Masters 27	Verve Jazz Masters 21	0.9523809523809523
+856	Verve Jazz Masters 27	Verve Jazz Masters 36	0.9047619047619048
+857	Verve Jazz Masters 27	Verve Jazz Masters 43	0.9047619047619048
+858	Verve Jazz Masters 27	Verve Jazz Masters 41	0.9047619047619048
+859	Verve Jazz Masters 27	Verve Jazz Masters 45	0.9047619047619048
+860	Verve Jazz Masters 27	Verve Jazz Masters 49	0.9047619047619048
+861	Verve Jazz Masters 27	Verve Jazz Masters 44	0.9047619047619048
+862	Verve Jazz Masters 27	Verve Jazz Masters 50	0.9047619047619048
+863	Verve Jazz Masters 27	Verve Jazz Masters 48	0.9047619047619048
+864	I'm Alright	It's Alright	0.8181818181818181
+865	Recuerdos 2	Recuerdos 1	0.9090909090909091
+866	Wanton Spirit	Canyon Spirit	0.8461538461538461
+867	Greatest Hits Vol02	Greatest Hits, Vol.2	0.8947368421052632
+868	Verve Jazz Masters 21	Verve Jazz Masters 36	0.9047619047619048
+869	Verve Jazz Masters 21	Verve Jazz Masters 43	0.9047619047619048
+870	Verve Jazz Masters 21	Verve Jazz Masters 41	0.9523809523809523
+871	Verve Jazz Masters 21	Verve Jazz Masters 45	0.9047619047619048
+872	Verve Jazz Masters 21	Verve Jazz Masters 49	0.9047619047619048
+873	Verve Jazz Masters 21	Verve Jazz Masters 44	0.9047619047619048
+874	Verve Jazz Masters 21	Verve Jazz Masters 50	0.9047619047619048
+875	Verve Jazz Masters 21	Verve Jazz Masters 48	0.9047619047619048
+876	A Truckload of Blues	Truckload of Blues	0.9
+877	These Blues	The Blues	0.8181818181818181
+878	Jenny From the Block 2	Jenny From the Block 1	0.9545454545454546
+879	Bashin	Bashin'	0.8333333333333334
+880	Diggin' Uncle Q	Diggin Uncle Q	0.9333333333333333
+881	Verve Jazz Masters 36	Verve Jazz Masters 43	0.9047619047619048
+882	Verve Jazz Masters 36	Verve Jazz Masters 41	0.9047619047619048
+883	Verve Jazz Masters 36	Verve Jazz Masters 45	0.9047619047619048
+884	Verve Jazz Masters 36	Verve Jazz Masters 49	0.9047619047619048
+885	Verve Jazz Masters 36	Verve Jazz Masters 44	0.9047619047619048
+886	Verve Jazz Masters 36	Verve Jazz Masters 50	0.9047619047619048
+887	Verve Jazz Masters 36	Verve Jazz Masters 48	0.9047619047619048
+888	Little Blackbird	Little Bluebird	0.8125
+889	20 Exitos	30 Exitos	0.8888888888888888
+890	Devils Slide	Devil's Slide	0.9166666666666666
+891	Collectables Classics (4-CD Box Set)	Collectables Classics (5-CD Box Set)	0.9722222222222222
+892	West Side Stories	West Side Story	0.8235294117647058
+893	Spices	Spaces	0.8333333333333334
+894	Magico	Magic	0.8333333333333334
+895	Straight From the Dec	Straight From the Heart	0.8095238095238095
+896	Verve Jazz Masters 43	Verve Jazz Masters 41	0.9523809523809523
+897	Verve Jazz Masters 43	Verve Jazz Masters 45	0.9523809523809523
+898	Verve Jazz Masters 43	Verve Jazz Masters 49	0.9523809523809523
+899	Verve Jazz Masters 43	Verve Jazz Masters 44	0.9523809523809523
+900	Verve Jazz Masters 43	Verve Jazz Masters 50	0.9047619047619048
+901	Verve Jazz Masters 43	Verve Jazz Masters 48	0.9523809523809523
+902	Homeland 2: A Collection of Black South African Music	Homeland 2: Collection Black S African Music	0.8301886792452831
+903	Dreams of Christmas	Dreaming of Christmas	0.8421052631578947
+904	Verve Jazz Masters 41	Verve Jazz Masters 45	0.9523809523809523
+905	Verve Jazz Masters 41	Verve Jazz Masters 49	0.9523809523809523
+906	Verve Jazz Masters 41	Verve Jazz Masters 44	0.9523809523809523
+907	Verve Jazz Masters 41	Verve Jazz Masters 50	0.9047619047619048
+908	Verve Jazz Masters 41	Verve Jazz Masters 48	0.9523809523809523
+909	Homeland 2: Collection Black S African Music	Homeland: Collection Black African Music	0.9090909090909091
+910	Symphonies 1-6	Symphonies 1	0.8571428571428572
+911	Symphonies 1-6	Symphonien 1-4	0.8571428571428572
+912	Symphonies 1-6	Symphonies 1-9	0.9285714285714286
+913	Master Drummers of Dagbon	Master Drummers of Dagbon 2	0.92
+914	Rendevous	Rendezvous	0.8888888888888888
+915	Verve Jazz Masters 45	Verve Jazz Masters 49	0.9523809523809523
+916	Verve Jazz Masters 45	Verve Jazz Masters 44	0.9523809523809523
+917	Verve Jazz Masters 45	Verve Jazz Masters 50	0.9047619047619048
+918	Verve Jazz Masters 45	Verve Jazz Masters 48	0.9523809523809523
+919	CELIBIDACHE / Mnchner Philharmoniker - Beethoven: Symphony No. 3	CELIBIDACHE / Mnchner Philharmoniker - Beethoven: Symphonies Nos. 7 & 8	0.859375
+920	CELIBIDACHE / Mnchner Philharmoniker - Beethoven: Symphony No. 3	CELIBIDACHE / Mnchner Philharmoniker - Schubert: Symphony No. 9	0.859375
+921	Blues of the Month Club	Fruit of the Month Club	0.8260869565217391
+922	Verve Jazz Masters 49	Verve Jazz Masters 44	0.9523809523809523
+923	Verve Jazz Masters 49	Verve Jazz Masters 50	0.9047619047619048
+924	Verve Jazz Masters 49	Verve Jazz Masters 48	0.9523809523809523
+925	California Dreamin	California Dreaming	0.9444444444444444
+926	Visions	Vision	0.8571428571428572
+927	Verve Jazz Masters 44	Verve Jazz Masters 50	0.9047619047619048
+928	Verve Jazz Masters 44	Verve Jazz Masters 48	0.9523809523809523
+929	Verve Jazz Masters 50	Verve Jazz Masters 48	0.9047619047619048
+930	CELIBIDACHE / Mnchner Philharmoniker - Beethoven: Symphonies Nos. 7 & 8	CELIBIDACHE / Mnchner Philharmoniker - Schumann: Symphonies Nos. 3 & 4	0.8591549295774648
+931	Connections	Collections	0.8181818181818181
+932	released	Released	0.875
+933	Paz em Angola	Paz Em Angola	0.9230769230769231
+934	Short Stories	Ghost Stories	0.8461538461538461
+935	Schubert: Symphonies Nos. 5 & 9	Schubert: Symphonies Nos. 1-6	0.8387096774193549
+936	Schubert: Symphonies Nos. 5 & 9	Schumann: Symphonies Nos. 2 & 4	0.8064516129032258
+937	Darwin	Darlin	0.8333333333333334
+938	It's About Time	It's 'bout Time	0.9333333333333333
+939	Sick World Happy Guy 2	Sick World Happy Guy	0.9090909090909091
+940	Chicago VII	Chicago XI	0.8181818181818181
+941	On a Mission	One Mission	0.8333333333333334
+942	Mussorgsky/Ravel: Pictures at an Exhibition	Mussorgsky: Pictures at an Exhibition	0.8604651162790697
+943	Concierto En Aranjuez	Concerto de Aranjuez	0.8571428571428572
+944	Concierto En Aranjuez	Concierto Aranjuez	0.8571428571428572
+945	Makin Believe	Make Believe	0.8461538461538461
+946	Very Best Of	Very Best of	0.9166666666666666
+947	Interstate 5	Interstate	0.8333333333333334
+948	Tartini: The Violin Concertos, Vol. 5	Tartini: The Violin Concertos, Vol. 6	0.972972972972973
+949	11 Live - Jars of Clay in Concert (2002)	11 Live - Jars of Clay in Concert [VHS]	0.85
+950	Masterbeat: Black Party 2002	Masterbeat: White Party 2002	0.8214285714285714
+951	Keep Swingin'	Keep Swingin	0.9230769230769231
+952	Skyliner	Skyline	0.875
+953	Songs From the Heart 1&2	Songs From the Heart	0.8333333333333334
+954	Kings of the Blues	King of the Blues	0.9444444444444444
+955	Live at Royal Albert Hall	Live at the Royal Albert Hall	0.84
+956	Illumination	Illuminations	0.9166666666666666
+957	Piano Music	Plant Music	0.8181818181818181
+958	Just for Fun!	Just for Fun	0.9230769230769231
+959	Live at the Ritz	Live at the Roxy	0.8125
+960	Ballad	Ballads	0.8333333333333334
+961	Over the Rainbow	Over The Rainbow	0.9375
+962	Golden Oldies 1	Golden Oldies 2	0.9333333333333333
+963	Mwenda Wa Bayeke	Mwenda Wa Baveke	0.9375
+964	Nielsen: Symphonies Nos. 1 & 6	Svendsen: Symphonies Nos. 1 & 2	0.8333333333333334
+965	Thirty Six All Time Favorite	Thirty-Six All-Time Favorites	0.8928571428571429
+966	We Get Requsts	We Get Requests	0.9285714285714286
+967	Ed Sullivan's Rock 'n' Roll Classics - Chart Toppers, Vol. 1 - Hits of 1965-1967 (2002)	Ed Sullivan's Rock 'n' Roll Classics - Chart Toppers, Vol. 2 - Hits of 1968-1970	0.896551724137931
+968	Routes of Rhythm, V. 3	Routes of Rhythm 3	0.8181818181818181
+969	Coeur Des Cajuns	Coeur des Cajuns	0.9375
+970	The Return of El Parche	Return of El Parche	0.8260869565217391
+971	Ghost [Original Motion Picture Soundtrack]	Backdraft [Original Motion Picture Soundtrack]	0.8095238095238095
+972	Ghost [Original Motion Picture Soundtrack]	Dogma (Original Motion Picture Soundtrack)	0.8333333333333334
+973	San Antonio Soul	San Antonio Rose	0.8125
+974	Familia y Tradicion	Familia Tradicion	0.8947368421052632
+975	Quand J'ai Parti	Quand J'Ai Parti	0.9375
+976	Somewhere in Time	Somewhere In Time	0.9411764705882353
+977	Familia Tradicion	Family Tradition	0.8235294117647058
+978	Black Is Black	Back In Black	0.8571428571428572
+979	Seguro Que Si!	Seguro Que Si	0.9285714285714286
+980	Beethoven: Symphonies Nos. 1 & 5	Beethoven: Symphonies Nos. 6 & 8	0.9375
+981	Beethoven: Symphonies Nos. 1 & 5	Beethoven: Symphonies Nos. 4 & 5	0.96875
+982	Beethoven: Symphonies Nos. 1 & 5	Beethoven: Symphonies Nos. 2 & 6	0.9375
+983	Peace, Be Still	Peace Be Still	0.9333333333333333
+984	Tryin' 2 Get It	Tryin 2 Get It	0.9333333333333333
+985	Life of Hustler	Life of a Hustler	0.8666666666666667
+986	Vivaldi - The Four Seasons	Vivaldi: The Four Seasons	0.9230769230769231
+987	Golden Classics: 22 Classic Tracks	Golden Classics: 20 Classic Tracks	0.9705882352941176
+988	Golden Classics: 22 Classic Tracks	Golden Classics: 23 Classic Tracks	0.9705882352941176
+989	Puss N Boots	Puss in Boots	0.8333333333333334
+990	Golden Classics: 20 Classic Tracks	Golden Classics: 23 Classic Tracks	0.9705882352941176
+991	Classic Children's Tales	Classic Children Tales	0.9166666666666666
+992	Real Live	Real Life	0.8888888888888888
+993	Le Hoogie Boogie: Louisiana French Music For Children	Le Hoogie Boogie: Lousiana French Music for Kids	0.8490566037735849
+994	Michael W. Smith - Worship (2002)	Michael W. Smith - Worship [VHS]	0.8181818181818181
+995	Kalifornia	California	0.9
+996	In Memory of Quorthon, Vol. 1	In Memory of Quorthon, Vol. 3	0.9655172413793104
+997	Let It Be	Let It Bee	0.8888888888888888
+998	John McCutcheon's Four Seasons: Summersongs	John McCutcheon's Four Seasons: Wintersongs	0.9069767441860466
+999	Rock N Roll	Rock & Roll	0.9090909090909091
+1000	Daddys Little Girl	Daddy's Little Girl	0.9444444444444444
+1001	One Light, One Sun	One Light One Sun	0.9444444444444444
+1002	One Light, One Sun	One Night One Sun	0.8888888888888888
+1003	One Light One Sun	One Night One Sun	0.9411764705882353
+1004	Singable Songs for the Very Young	Singable Songs for the Very Yo	0.9090909090909091
+1005	"Mahler: Symphony No. 1 in D ""Titan"""	"Mahler: Symphony No. 1 ""Titan"""	0.8571428571428572
+1006	Mozart: Clarinet Concerto; Clarinet Quintet	Mozart: Clarinet Concerto & Clarinet Quintet	0.9534883720930233
+1007	The Great Dinosaur Mystery -- A Musical Fossil Fantasy	Great Dinosaur Mystery: Musical Fossil Fantasy	0.8333333333333334
+1008	In Washington 2	In Washington 3	0.9333333333333333
+1009	Destination	Destinations	0.9090909090909091
+1010	Songs of Love & Life	Songs of Love & Lust	0.85
+1011	Beethoven: Piano Concertos Nos. 2 & 3	Beethoven: Piano Concertos 1 & 2	0.8108108108108107
+1012	Beethoven: Piano Concertos Nos. 2 & 3	Beethoven: Piano Concertos No. 2 & 4	0.9459459459459459
+1013	Elements	Elementos	0.875
+1014	Never Mind the Sex Pistols 1	Never Mind the Sex Pistols	0.9285714285714286
+1015	Evolution	Evolucion	0.8888888888888888
+1016	Strike Up the Band	Strike up the Band	0.9444444444444444
+1017	Paradiso	Paradise	0.875
+1018	Rock & Real	Rock & Roll	0.8181818181818181
+1019	Lemons	Demons	0.8333333333333334
+1020	Beethoven: Symphonies Nos. 6 & 8	Beethoven: Symphonies Nos. 4 & 5	0.9375
+1021	Beethoven: Symphonies Nos. 6 & 8	Beethoven: Symphonies Nos. 2 & 6	0.9375
+1022	Check This Action	Check this action!	0.8235294117647058
+1023	Earthy	Earth	0.8333333333333334
+1024	No No No Cha Cha Cha	No, No, No, Cha Cha Cha	0.85
+1025	Musical Sea of Tranquility 1	Musical Sea of Tranquility 2	0.9642857142857143
+1026	Swimming With the Sharks	Swimming with the Sharks	0.9583333333333334
+1027	Crown Royale	Crown Royal	0.9166666666666666
+1028	Bluegrass CD	Bluegrass CD 2	0.8333333333333334
+1029	Let's Swing!	Let's Swing	0.9166666666666666
+1030	Darlin	Darlin'	0.8333333333333334
+1031	Sonatas	Sonata	0.8571428571428572
+1032	Conception [Vinyl]	Inception [Vinyl]	0.8888888888888888
+1033	Conception [Vinyl]	Corruption [Vinyl]	0.8333333333333334
+1034	The Young Bloods [Vinyl]	The Young Gods [Vinyl]	0.875
+1035	Remix [Vinyl]	Remixes [Vinyl]	0.8461538461538461
+1036	Kidz Bop 11	Kidz Bop 8	0.8181818181818181
+1037	The Best of Love	The Best of Sade	0.8125
+1038	Chicago XI	Chicago X	0.9
+1039	Back to the Roots	Back to the Cross	0.8235294117647058
+1040	(Rap) Superstar Pt. 1	(Rock) Superstar Pt. 2	0.8095238095238095
+1041	Sailing Off the Edge of the World	Dancing on the Edge of the World	0.8181818181818181
+1042	The Blues Piano Artistry Of Meade Lux Lewis	The Blues Piano Artistry of Meade Lux Lewis	0.9767441860465116
+1043	Tracks	Traces	0.8333333333333334
+1044	Free for All	Free For All	0.9166666666666666
+1045	Fuzzy Mountain String Band	The Fuzzy Mountain String Band	0.8461538461538461
+1046	Live at Montreux	Live at Monterey	0.8125
+1047	Dreams	Dream	0.8333333333333334
+1048	Bumpin'	Dumpin'	0.8571428571428572
+1049	Rain Forests	Rain Forest	0.9166666666666666
+1050	Animotion	Animation	0.8888888888888888
+1051	What Is	What If	0.8571428571428572
+1052	Kalifornia [Vinyl]	California [Vinyl]	0.9444444444444444
+1053	Something Special	Something Crucial	0.8235294117647058
+1054	Released	Release	0.875
+1055	Alters of Madness	Altars of Madness	0.9411764705882353
+1056	Old Girlfriends and Other Horrible Memories	Old Girl Friends & Other Horrible Memories	0.8837209302325582
+1057	Dont Stand Me Down	Don't Stand Me Down	0.9444444444444444
+1058	Rivers	Rivera	0.8333333333333334
+1059	Recollections	Recollection	0.9230769230769231
+1060	AIR: Eating, Sleeping, Waiting, and Playing [VHS]	AIR: Eating, Sleeping, Waiting and Playing (1999)	0.8571428571428572
+1061	Good Though	Good Though!	0.9090909090909091
+1062	Revolutions Per Minute	33 Revolutions Per Minute	0.8636363636363636
+1063	Old Friends	Old Friends 3	0.8181818181818181
+1064	Beyond the Gates	Beyond the Rains	0.8125
+1065	Alive!	Alive	0.8333333333333334
+1066	Good Friends - Good Music	Good Friends Good Music	0.92
+1067	There's a Light Beyond These Woods	Theres a Light Beyond These Woods	0.9705882352941176
+1068	Message	Messages	0.8571428571428572
+1069	Sibelius: Symphonies Nos. 4 & 5	Sibelius: Symphonies Nos. 5 & 7	0.935483870967742
+1070	Sibelius: Symphonies Nos. 4 & 5	Sibelius: Symphonies Nos. 3 & 5	0.967741935483871
+1071	Music of the Year: 1963	Music of the Year: 1961	0.9565217391304348
+1072	Music of the Year: 1963	Music of the Year: 1956	0.9130434782608696
+1073	Music of the Year: 1963	Music of the Year: 1978	0.9130434782608696
+1074	Music of the Year: 1963	Music of the Year: 1967	0.9565217391304348
+1075	Music of the Year: 1963	Music of the Year: 1969	0.9565217391304348
+1076	Music of the Year: 1963	Music of the Year: 1958	0.9130434782608696
+1077	Once In a Very Blue Moon	Once in a Very Blue Moon	0.9583333333333334
+1078	Music of the Year: 1961	Music of the Year: 1956	0.9130434782608696
+1079	Music of the Year: 1961	Music of the Year: 1978	0.9130434782608696
+1080	Music of the Year: 1961	Music of the Year: 1967	0.9565217391304348
+1081	Music of the Year: 1961	Music of the Year: 1969	0.9565217391304348
+1082	Music of the Year: 1961	Music of the Year: 1958	0.9130434782608696
+1083	Sing The Hits of Sarah Brightman, Vol. 3	Sing The Hits of Sarah Brightman Vol. 4	0.95
+1084	Music of the Year: 1956	Music of the Year: 1978	0.9130434782608696
+1085	Music of the Year: 1956	Music of the Year: 1967	0.9130434782608696
+1086	Music of the Year: 1956	Music of the Year: 1969	0.9130434782608696
+1087	Music of the Year: 1956	Music of the Year: 1958	0.9565217391304348
+1088	Bruckner: Symphony No. 7	Bruckner: Symphony No. 9	0.9583333333333334
+1089	Bruckner: Symphony No. 7	Bruckner: Symphony No 5	0.9166666666666666
+1090	Bruckner: Symphony No. 7	Bruckner: Symphony No. 8	0.9583333333333334
+1091	Tune Buddies - Keyboards [VHS] (2000)	Tune Buddies - Brass [VHS] (2000)	0.8108108108108107
+1092	Tune Buddies - Strings [VHS] (2000)	Tune Buddies - Brass [VHS] (2000)	0.8571428571428572
+1093	A Fine Song for Singing	Fine Song for Singing	0.9130434782608696
+1094	Music of the Year: 1978	Music of the Year: 1967	0.9130434782608696
+1095	Music of the Year: 1978	Music of the Year: 1969	0.9130434782608696
+1096	Music of the Year: 1978	Music of the Year: 1958	0.9565217391304348
+1097	Singles Collection	CD Singles Collection	0.8333333333333334
+1098	Buy Me Bring Me Take Me Don't Mess My Hair	Buy Me Bring Me Take Me Don't Mess My Hair 2	0.9523809523809523
+1099	Sgt. Pepper's Lonely Hearts Club Band	Sgt. Peppers Lonely Hearts Club Band	0.972972972972973
+1100	Straight From the Heart	Straight to the Heart	0.8695652173913043
+1101	Straight From the Heart	Straight From The Heart	0.9565217391304348
+1102	Hears to the Future [Vinyl]	Black to the Future [Vinyl]	0.8518518518518519
+1103	Music of the Year: 1967	Music of the Year: 1969	0.9565217391304348
+1104	Music of the Year: 1967	Music of the Year: 1958	0.9130434782608696
+1105	Spirits Having Flown	Spirits Have Flown	0.85
+1106	True Confessions	True Confession	0.9375
+1107	Music of the Year: 1969	Music of the Year: 1958	0.9130434782608696
+1108	Projections	Protection	0.8181818181818181
+1109	Follow That Bird	Follow That Road	0.8125
+1110	Bridges	Bridge	0.8571428571428572
+1111	Celtic Insrumentals for Fingerstyle Guitar, Video One [VHS]	Celtic Instrumentals for Fingerstyle Guitar, Video Two [VHS]	0.9322033898305084
+1112	Renaisance Man	Renaissance Man	0.9285714285714286
+1113	Learn To Sing Like A Star	Learn to Sing Like a Star	0.92
+1114	Christmas In the Northwest II	Christmas in the Northwest	0.8620689655172413
+1115	Christmas In the Northwest II	Christmas in the Northwest 5	0.896551724137931
+1116	Very Best of Beny More 1	Very Best of Beny More 2	0.9583333333333334
+1117	Live From Around the World	Live Around the World	0.8076923076923077
+1118	Best of Studio One 1	Best of Studio One 2	0.95
+1119	Behind the Light	Behind That Light	0.8125
+1120	The Chanting Dread Inna Fine Style	Chanting Dread Inna Fine Style	0.8823529411764706
+1121	Autumn	Autumns	0.8333333333333334
+1122	Anos Dourados	Anos Dorados	0.9230769230769231
+1123	On the Other Side	On The Other Side	0.9411764705882353
+1124	Some of the Best	More of the Best	0.875
+1125	Fittest of the Fittest	The Fittest of the Fittest	0.8181818181818181
+1126	Blues on My Mind	Blues On My Mind	0.9375
+1127	Bob the Builder - Roley's Favorite Adventures [VHS] (2001)	Bob the Builder - Bob's Favorite Adventures [VHS] (2001)	0.9310344827586207
+1128	Bob the Builder - Roley's Favorite Adventures [VHS] (2001)	Bob the Builder - Bob's Favorite Adventures (2001)	0.8275862068965517
+1129	Bob the Builder - Roley's Favorite Adventures [VHS] (2001)	Bob the Builder - Roley's Favorite Adventures (2001)	0.896551724137931
+1130	Under Da Influence	Under the Influence	0.8333333333333334
+1131	Bob the Builder - Bob's Favorite Adventures [VHS] (2001)	Bob the Builder - Bob's Favorite Adventures (2001)	0.8928571428571429
+1132	Bob the Builder - Bob's Favorite Adventures [VHS] (2001)	Bob the Builder - Roley's Favorite Adventures (2001)	0.8214285714285714
+1133	Rock N Roll Gypsies	Rock 'n' Roll Gypsies	0.8421052631578947
+1134	Symphonies 1	Symphonies 1-9	0.8333333333333334
+1135	30 Pegaditas De Oro	30 Pegaditas De Oro 1	0.8947368421052632
+1136	Buried Alive By Love	Buried Alive By Love 1	0.9
+1137	Carnegie Hall Concert - January 4 1946	Carnegie Hall Concerts, January 1943	0.868421052631579
+1138	Funky Beats	Funky Beat	0.9090909090909091
+1139	5 Boroughs Compilations: Brooklyn 2	5 Boroughs Compilations: Bronx 1	0.8285714285714285
+1140	Pirates Of The Caribbean: Dead Man's Chest	Pirates of the Caribbean: Dead Man's Chest	0.9523809523809523
+1141	Unison	Union	0.8333333333333334
+1142	Live In New Orleans	Live in New Orleans	0.9473684210526316
+1143	Somebody Loves You	Somebody Loves Me	0.8333333333333334
+1144	Love [Vinyl]	Nave [Vinyl]	0.8333333333333334
+1145	Momente	Moments	0.8571428571428572
+1146	Eps of Rp	Ep's of Rp	0.8888888888888888
+1147	The Complete Riverside Recordings [Vinyl]	The Complete Riverside Recordings	0.8048780487804879
+1148	Who's Makin Love	Who's Making Love	0.9375
+1149	Watcha See Is What You Get	Whatcha See Is What You Get	0.9615384615384616
+1150	Bad Boys	Bad Boy	0.875
+1151	Legends	Legend	0.8571428571428572
+1152	Legends	Legende	0.8571428571428572
+1153	Complete Riverside Recordings	The Complete Riverside Recordings	0.8620689655172413
+1154	Symphonies Of The Planets 3	Symphonies Of The Planets 4	0.962962962962963
+1155	Relaxation & Meditation with Music & Nature: Mountain Streams	Relaxation & Meditation with Music & Nature: Distant Shores	0.8360655737704918
+1156	Relaxation & Meditation with Music & Nature: Mountain Streams	Relaxation & Meditation with Music & Nature: Spring Showers	0.8032786885245902
+1157	Relaxation & Meditation with Music & Nature: Mountain Streams	Relaxation & Meditation with Music & Nature: Ocean Dreams	0.8688524590163934
+1158	Relaxation & Meditation with Music & Nature: Mountain Streams	Relaxation & Meditation with Music & Nature: Ocean Voyages	0.8032786885245902
+1159	Relaxation & Meditation with Music & Nature: Mountain Streams	Relaxation & Meditation with Music & Nature: Caribbean Shores	0.8032786885245902
+1160	Dramatic Experience	A Dramatic Experience	0.8947368421052632
+1161	In a Beautiful Place Out In the Country	In a Beautiful Place Out in the Country	0.9743589743589743
+1162	Relaxation & Meditation with Music & Nature: Distant Shores	Relaxation & Meditation with Music & Nature: Spring Showers	0.864406779661017
+1163	Relaxation & Meditation with Music & Nature: Distant Shores	Relaxation & Meditation with Music & Nature: Ocean Dreams	0.8305084745762712
+1164	Relaxation & Meditation with Music & Nature: Distant Shores	Relaxation & Meditation with Music & Nature: Distant Thunder	0.9152542372881356
+1165	Relaxation & Meditation with Music & Nature: Distant Shores	Relaxation & Meditation with Music & Nature: Ocean Voyages	0.8305084745762712
+1166	Relaxation & Meditation with Music & Nature: Distant Shores	Relaxation & Meditation with Music & Nature: Caribbean Shores	0.8813559322033898
+1167	101 Digital Sound Effects: Sounds of Horror	101 Digital Sound Effects: Sounds of Nature	0.8604651162790697
+1168	The Complete Stax/Volt Soul Singles: 1968-1971	The Complete Stax/Volt Soul Singles: 1972-1975	0.9347826086956522
+1169	Relaxation & Meditation with Music & Nature: Spring Showers	Relaxation & Meditation with Music & Nature: Ocean Dreams	0.8135593220338984
+1170	Relaxation & Meditation with Music & Nature: Spring Showers	Relaxation & Meditation with Music & Nature: Distant Thunder	0.8135593220338984
+1171	Relaxation & Meditation with Music & Nature: Spring Showers	Relaxation & Meditation with Music & Nature: Ocean Voyages	0.8135593220338984
+1172	Relaxation & Meditation with Music & Nature: Spring Showers	Relaxation & Meditation with Music & Nature: Caribbean Shores	0.847457627118644
+1173	Relaxation & Meditation with Music & Nature: Ocean Dreams	Relaxation & Meditation with Music & Nature: Awakenings	0.8245614035087719
+1174	Relaxation & Meditation with Music & Nature: Ocean Dreams	Relaxation & Meditation with Music & Nature: Ocean Voyages	0.9122807017543859
+1175	Relaxation & Meditation with Music & Nature: Ocean Dreams	Relaxation & Meditation with Music & Nature: Caribbean Shores	0.8070175438596492
+1176	Why [Vinyl]	When [Vinyl]	0.8181818181818181
+1177	Blues N' Soul	Blues 'N Soul	0.8461538461538461
+1178	Black & Brown Ryda Thugz	Black N Brown Ryda Thugz	0.9583333333333334
+1179	Relaxation & Meditation with Music & Nature: Distant Thunder	Relaxation & Meditation with Music & Nature: Ocean Voyages	0.8166666666666667
+1180	Relaxation & Meditation with Music & Nature: Awakenings	Relaxation & Meditation with Music & Nature: Ocean Voyages	0.8181818181818181
+1181	Million Dollar Hooks	Million Dollar Rock	0.85
+1182	In the Christmas Mood II	In the Christmas Mood	0.875
+1183	Relaxation & Meditation with Music & Nature: Ocean Voyages	Relaxation & Meditation with Music & Nature: Caribbean Shores	0.8103448275862069
+1184	Relaxation & Meditation with Music & Nature: Tropical Rainforest	Relaxation & Meditation with Music & Nature: Amazon Rainforest	0.875
+1185	Music From The Wonder Years: Summer Time (1983-93 Television Series)	Music From The Wonder Years: First Love (1983-93 Television Series)	0.8676470588235294
+1186	Troika	Tronika	0.8333333333333334
+1187	A Taste of Passover	Taste of Passover	0.8947368421052632
+1188	New King Of The Blues Harmonica	New King of the Blues Harmonica	0.935483870967742
+1189	Relaxation & Meditation with Music & Nature: Amazon Rainforest	Relaxation & Meditation with Music & Nature: Caribbean Shores	0.8064516129032258
+1190	Legend	Legende	0.8333333333333334
+1191	Farrel	Barrel	0.8333333333333334
+1192	Thursday Night in San Francisco	Thursday Night In San Francisco	0.967741935483871
+1193	Thursday Night in San Francisco	Wednesday Night In San Francisco	0.8064516129032258
+1194	Blues at Sunrise	Blues at Sunset	0.8125
+1195	Soul Searchin'	Soul Searching	0.9285714285714286
+1196	Thursday Night In San Francisco	Wednesday Night In San Francisco	0.8387096774193549
+1197	Alter Native	Alternative	0.8333333333333334
+1198	Hunter	Hunger	0.8333333333333334
+1199	Wednesday Night in Sanfrancisco	Wednesday Night In San Francisco	0.9032258064516129
+1200	Brahms: Piano Concerto No.1 / Four Ballades, Op. 10	Brahms: Piano Concerto No. 1, Ballades, Op. 10	0.8627450980392157
+1201	Peace of Mind	Piece of Mind	0.8461538461538461
+1202	Live On Tour In The Far East, Vol. 2	Live On Tour In The Far East, Vol. 1	0.9722222222222222
+1203	Complete Vips	Complete Hits	0.8461538461538461
+1204	The Blues Don't Change	Blues Don't Change	0.8181818181818181
+1205	Stay Out of the Kitchen	Stay Out Of The Kitchen	0.9130434782608696
+1206	Bach 2000 4: Sacred Cantatas	Bach 2000 1: Sacred Cantatas	0.9642857142857143
+1207	Bach 2000 4: Sacred Cantatas	Bach 2000 3: Sacred Cantatas	0.9642857142857143
+1208	American Portraits	American Portraits 5	0.8888888888888888
+1209	Live at the House of Blues	Liva at House of Blues	0.8076923076923077
+1210	Bob the Builder - Bob's Favorite Adventures (2001)	Bob the Builder - Roley's Favorite Adventures (2001)	0.92
+1211	Bach 2000 1: Sacred Cantatas	Bach 2000 3: Sacred Cantatas	0.9642857142857143
+1212	There's Room for Us All	There's Room for Us	0.8260869565217391
+1213	Bruckner: Symphony No. 9	Bruckner: Symphony No 5	0.9166666666666666
+1214	Bruckner: Symphony No. 9	Bruckner: Symphony No. 8	0.9583333333333334
+1215	Man Or Myth?	Man Or Myth	0.9166666666666666
+1216	Hold on I'm Coming	Hold on It's Coming	0.8888888888888888
+1217	Mushroom Jazz 3	Mushroom Jazz 2	0.9333333333333333
+1218	Rainbow	rainbow	0.8571428571428572
+1219	Sin Limite	Sin Limites	0.9
+1220	Tristan & Isolde	Tristan Und Isolde	0.8125
+1221	Hot Show	Hot Shot	0.875
+1222	Making F@*!Ing Videos Part 1 [VHS] (1993)	Making F@*!Ing Videos 2 [VHS] (1993)	0.8536585365853658
+1223	Golden Voices from the Silver Screen: Classic Indian Film Soundtrack Songs, Volume 3	Golden Voices from the Silver Screen: Classic Indian Film Soundtrack Songs, Volume 1	0.9880952380952381
+1224	Brand New Stranger	Brand New Strings	0.8333333333333334
+1225	Follow	Hollow	0.8333333333333334
+1226	Dah Shinin	Dah Shinin'	0.9
+1227	60's Greatest Rock & Roll Hits	50's Greatest Rock & Roll Hits	0.9666666666666667
+1228	Summer Solstice 2	Summer Solstice	0.8823529411764706
+1229	The World Won't Listen	World Won't Listen	0.8181818181818181
+1230	Step Up To The Microphone	Step Up to the Microphone	0.92
+1231	Mahler I: Complete Recordings on Deutsche Grammophon	Mahler II: Complete Recordings on Deutsche Grammophon	0.9807692307692307
+1232	Mahler I: Complete Recordings on Deutsche Grammophon	Mahler III: Complete Recordings on Deutsche Grammophon	0.9615384615384616
+1233	Mahler II: Complete Recordings on Deutsche Grammophon	Mahler III: Complete Recordings on Deutsche Grammophon	0.9811320754716981
+1234	Midnight on Cloud 69	Midnight On Cloud 69	0.95
+1235	Come Clean 1	Come Clean 2	0.9166666666666666
+1236	Brel En Public Olympia 1964 Vol 9	Brel En Public Olympia 1961 Vol 8	0.9393939393939394
+1237	Possession	Posession	0.9
+1238	The Singles Collection	CD Singles Collection	0.8636363636363636
+1239	Christmas in the Northwest	Christmas in the Northwest 5	0.9230769230769231
+1240	Bruckner: Symphony No 5	Bruckner: Symphony No. 8	0.9130434782608696
+1241	Their Finest Hour...& Then Some	Their Finest Hour and Then Some	0.8709677419354839
+1242	Best Club Anthems 2005	Best Club Anthems 2000 2	0.8636363636363636
+1243	Rod McKuen's Greatest Hits, Vol. 2	"""Rod McKuen - Greatest Hits, Vol. 4"""	0.8529411764705882
+1244	Christmas Carol	Christmas Card	0.8666666666666667
+1245	Strictly the Best, Vol. 7 [Vinyl]	Strictly the Best, Vol. 10 [Vinyl]	0.9393939393939394
+1246	Strictly the Best, Vol. 7 [Vinyl]	Strictly the Best, Vol. 5 [Vinyl]	0.9696969696969697
+1247	Strictly the Best, Vol. 7 [Vinyl]	Strictly the Best, Vol. 3 [Vinyl]	0.9696969696969697
+1248	Strictly the Best, Vol. 7 [Vinyl]	Strictly the Best, Vol. 14 [Vinyl]	0.9393939393939394
+1249	Total Recall, Vol. 5 [Vinyl]	Total Recall, Vol. 2 [Vinyl]	0.9642857142857143
+1250	Strictly the Best, Vol. 10 [Vinyl]	Strictly the Best, Vol. 5 [Vinyl]	0.9411764705882353
+1251	Strictly the Best, Vol. 10 [Vinyl]	Strictly the Best, Vol. 3 [Vinyl]	0.9411764705882353
+1252	Strictly the Best, Vol. 10 [Vinyl]	Strictly the Best, Vol. 14 [Vinyl]	0.9705882352941176
+1253	Joy of Belly Dancing	Art of Belly Dancing	0.85
+1254	Les Plus Belles Chansons V.2	Les Plus Belles Chansons(Nw)	0.8571428571428572
+1255	Strictly the Best, Vol. 5 [Vinyl]	Strictly the Best, Vol. 3 [Vinyl]	0.9696969696969697
+1256	Strictly the Best, Vol. 5 [Vinyl]	Strictly the Best, Vol. 14 [Vinyl]	0.9393939393939394
+1257	Strictly the Best, Vol. 3 [Vinyl]	Strictly the Best, Vol. 14 [Vinyl]	0.9393939393939394
+1258	Blue to the Bone	Close to the Bone	0.8125
+1259	Holst: The Planets	Holst:The Planets	0.9444444444444444
+1260	Reggae Gold 94 [Vinyl]	Reggae Gold 95 [Vinyl]	0.9545454545454546
+1261	Live 1980	Live 1986	0.8888888888888888
+1262	In the Heat of the Night	In the Hand of the Night	0.875
+1263	Sixties Rule! Chapter 2	Sixties Rule! Chapter One	0.8695652173913043
+1264	Threes	Three	0.8333333333333334
+1265	Romantic Evening Music For Oboe	Romantic Evening Music for Harp	0.8387096774193549
+1266	Romantic Evening Music For Oboe	Romantic Evening Music for Horn	0.8387096774193549
+1267	Romantic Evening Music for Harp	Romantic Evening Music for Horn	0.935483870967742
+1268	Symphony 0	Symphony 8	0.9
+1269	Symphony 0	Symphony 7	0.9
+1270	Symphony 0	Symphony 5	0.9
+1271	Pee-Wee Get My Gun	Pee Wee Get My Gun	0.9444444444444444
+1272	Time To Say Goodbye	Time to Say Goodbye	0.9473684210526316
+1273	Trio 2	Trio 3	0.8333333333333334
+1274	Christmas Meditation 1	Christmas Meditation	0.9090909090909091
+1275	Bach: Brandenburg Concertos Nos. 1-4, 6	Bach: Brandenburg Concertos Nos. 1, 2 & 3	0.8461538461538461
+1276	Bach: Brandenburg Concertos Nos. 1-4, 6	Bach: Brandenburg Concertos Nos. 1-4	0.9230769230769231
+1277	Songs of America	Song for America	0.8125
+1278	The Corrs: 'Live at the Royal Albert Hall' - St. Patrick's Day March 17, 1998 [VHS] (1998)	The Corrs: 'Live at the Royal Albert Hall' - St. Patrick's Day March 17, 1998 (1998)	0.9333333333333333
+1279	Liquid	Liquido	0.8333333333333334
+1280	Hollywood Dream	Hollywood Dreams	0.9333333333333333
+1281	Love & The Beat 1	Love & The Beat 2	0.9411764705882353
+1282	"Beethoven: Symphony No. 9 (""Choral"")"	"Beethoven: Symphony No. 9 ""Choral"""	0.9444444444444444
+1283	Beethoven: Symphonies Nos. 4 & 5	Beethoven: Symphonies Nos. 2 & 6	0.9375
+1284	In Heavenly Peace	Heavenly Peace	0.8235294117647058
+1285	Blues in the Dark	Blues in the East	0.8235294117647058
+1286	Live at Donnington	Live at Donington	0.9444444444444444
+1287	Puccini: Madama Butterfly	Puccini: Madam Butterfly	0.96
+1288	Live Tracks	Side Tracks	0.8181818181818181
+1289	Straight to the Heart	Straight From The Heart	0.8095238095238095
+1290	Piano Concertos 2 & 4	Piano Concertos 1 & 2	0.9047619047619048
+1291	Latin Dancing Intermediate with Teresa Mason (1999)	Latin Dancing Advanced with Teresa Mason (1999)	0.803921568627451
+1292	Pearl Jam: Touring Band 2000 (2001)	Pearl Jam: Touring Band 2000 [VHS] (2001)	0.8285714285714285
+1293	Mark 3	Mark 1	0.8333333333333334
+1294	Mark 3	Mark 2	0.8333333333333334
+1295	Tchaikovsky: The Nutcracker Highlights	Tchaikovsky - The Nutcracker (Highlights)	0.8947368421052632
+1296	Madame Butterfly	Madama Butterfly	0.9375
+1297	Mark 1	Mark 2	0.8333333333333334
+1298	Intervision	Innervisions	0.8181818181818181
+1299	The Instruments Of Classical Music: The Horn	The Instruments Of Classical Music: The Violin	0.9090909090909091
+1300	The Instruments Of Classical Music: The Horn	The Instruments Of Classical Music: The Cello	0.8863636363636364
+1301	The Instruments Of Classical Music: The Horn	The Instruments Of Classical Music: The Piano	0.9090909090909091
+1302	The Instruments Of Classical Music: The Horn	The Instruments Of Classical Music: The Organ	0.9090909090909091
+1303	The Instruments Of Classical Music: The Horn	The Instruments Of Classical Music: The Flute	0.8863636363636364
+1304	The Instruments Of Classical Music: The Horn	The Instruments Of Classical Music: The Oboe	0.9090909090909091
+1305	The Instruments Of Classical Music: The Horn	The Instruments Of Classical Music: The Trumpet	0.8409090909090909
+1306	The Instruments Of Classical Music: The Violin	The Instruments Of Classical Music: The Cello	0.8913043478260869
+1307	The Instruments Of Classical Music: The Violin	The Instruments Of Classical Music: The Piano	0.8913043478260869
+1308	The Instruments Of Classical Music: The Violin	The Instruments Of Classical Music: The Organ	0.8913043478260869
+1309	The Instruments Of Classical Music: The Violin	The Instruments Of Classical Music: The Flute	0.8695652173913043
+1310	The Instruments Of Classical Music: The Violin	The Instruments Of Classical Music: The Oboe	0.8913043478260869
+1311	The Instruments Of Classical Music: The Violin	The Instruments Of Classical Music: The Trumpet	0.8478260869565217
+1312	Encore	Encores	0.8333333333333334
+1313	Folksongs From Rumania	Folksongs From Bavaria	0.8181818181818181
+1314	The Instruments Of Classical Music: The Cello	The Instruments Of Classical Music: The Piano	0.9111111111111111
+1315	The Instruments Of Classical Music: The Cello	The Instruments Of Classical Music: The Organ	0.8888888888888888
+1316	The Instruments Of Classical Music: The Cello	The Instruments Of Classical Music: The Flute	0.8888888888888888
+1317	The Instruments Of Classical Music: The Cello	The Instruments Of Classical Music: The Oboe	0.8888888888888888
+1318	The Instruments Of Classical Music: The Cello	The Instruments Of Classical Music: The Trumpet	0.8444444444444444
+1319	The Instruments Of Classical Music: The Piano	The Instruments Of Classical Music: The Organ	0.9111111111111111
+1320	The Instruments Of Classical Music: The Piano	The Instruments Of Classical Music: The Flute	0.8888888888888888
+1321	The Instruments Of Classical Music: The Piano	The Instruments Of Classical Music: The Oboe	0.8888888888888888
+1322	The Instruments Of Classical Music: The Piano	The Instruments Of Classical Music: The Trumpet	0.8444444444444444
+1323	The Instruments Of Classical Music: The Organ	The Instruments Of Classical Music: The Flute	0.8888888888888888
+1324	The Instruments Of Classical Music: The Organ	The Instruments Of Classical Music: The Oboe	0.9111111111111111
+1325	The Instruments Of Classical Music: The Organ	The Instruments Of Classical Music: The Trumpet	0.8666666666666667
+1326	The Instruments Of Classical Music: The Flute	The Instruments Of Classical Music: The Oboe	0.9111111111111111
+1327	The Instruments Of Classical Music: The Flute	The Instruments Of Classical Music: The Trumpet	0.8888888888888888
+1328	Slowly Going the Way of Buffalo	Slowly Going Way of Buffalo	0.8709677419354839
+1329	The Instruments Of Classical Music: The Oboe	The Instruments Of Classical Music: The Trumpet	0.8636363636363636
+1330	16 All-Time Favorites	20 Old-Time Favorites	0.8095238095238095
+1331	Strictly Dancing: Waltz	Strictly Dancing: Tango	0.8260869565217391
+1332	Tribute to Ethel Waters	Tribute to the Masters	0.8260869565217391
+1333	Judgement Day 2	Judgement Day	0.8666666666666667
+1334	Vintage Music Collectors Series: Volumes 1 & 2	Vintage Music Collectors Series: Volumes 5 & 6	0.9565217391304348
+1335	Vintage Music Collectors Series: Volumes 1 & 2	Vintage Music Collectors Series, Volumes 7 & 8	0.9347826086956522
+1336	Vintage Music Collectors Series: Volumes 1 & 2	Vintage Music Collectors Series, Volumes 9 & 10	0.9130434782608696
+1337	Angel Heart	Angel Hat	0.8181818181818181
+1338	Vintage Music Collectors Series: Volumes 5 & 6	Vintage Music Collectors Series, Volumes 7 & 8	0.9347826086956522
+1339	Vintage Music Collectors Series: Volumes 5 & 6	Vintage Music Collectors Series, Volumes 9 & 10	0.9130434782608696
+1340	Vintage Music Collectors Series, Volumes 7 & 8	Vintage Music Collectors Series, Volumes 9 & 10	0.9347826086956522
+1341	School Dayz	School Days	0.9090909090909091
+1342	Compression	Compassion	0.8181818181818181
+1343	98 Live Meltdown	98 Live-Meltdown	0.9375
+1344	Rossini: Overtures	Rossini Overtures	0.9444444444444444
+1345	Serenade: Highlights Of Classical Music	Sabre Dance: Highlights of Classical Music	0.8205128205128205
+1346	Freestyle Explosion	Freestyle Explosion 4	0.8947368421052632
+1347	Original Trapp Family Singers	The Original Trapp Family Singers	0.8620689655172413
+1348	Stories From the Heart	Songs From the Heart	0.8181818181818181
+1349	Musica	Music	0.8333333333333334
+1350	Bach: Brandenburg Concertos Nos. 1, 2 & 3	Bach: Brandenburg Concertos Nos. 1-4	0.8292682926829268
+1351	Violin Concertos	Violin Concerto	0.9375
+1352	Dream Dance 31	Dream Dance 11	0.9285714285714286
+1353	Compact Command Performances: 19 Greatest Hits	Compact Command Performances: 22 Greatest Hits	0.9565217391304348
+1354	Buddha Lounge 5	Buddha Lounge	0.8666666666666667
+1355	Can Dish It Out But I Can't Take It	I Can Dish It Out, But I Can't take It	0.8857142857142857
+1356	Johnny's Greatest Hits	Disney's Greatest Hits	0.8181818181818181
+1357	The Wind [Vinyl]	The Life [Vinyl]	0.8125
+1358	The Wind [Vinyl]	The Walk [Vinyl]	0.8125
+1359	Bach: Brandenburg Concertos Nos. 1-4	Bach: Brandenburg Concertos 1-6	0.8333333333333334
+1360	Meditation: Classical Relaxation Vol. 8	Meditation: Classical Relaxation Vol. 5	0.9743589743589743
+1361	Meditation: Classical Relaxation Vol. 8	Meditation: Classical Relaxation Vol. 2	0.9743589743589743
+1362	Meditation: Classical Relaxation Vol. 8	Meditation: Classical Relaxation Vol. 1	0.9743589743589743
+1363	Meditation: Classical Relaxation Vol. 8	Meditation: Classical Relaxation Vol. 10	0.9487179487179487
+1364	The Life [Vinyl]	Pop Life [Vinyl]	0.8125
+1365	The Top 10 of Classical Music, 1867-1876	The Top 10 of Classical Music: 1894-1928	0.85
+1366	The Top 10 of Classical Music, 1867-1876	The Top 10 of Classical Music, 1877-1893	0.925
+1367	The Top 10 of Classical Music, 1867-1876	The Top 10 of Classical Music, 1776-1787	0.875
+1368	Classical Journey: Hungary	Classical Journey: Germany	0.8076923076923077
+1369	Meditation: Classical Relaxation Vol. 5	Meditation: Classical Relaxation Vol. 2	0.9743589743589743
+1370	Meditation: Classical Relaxation Vol. 5	Meditation: Classical Relaxation Vol. 1	0.9743589743589743
+1371	Meditation: Classical Relaxation Vol. 5	Meditation: Classical Relaxation Vol. 10	0.9487179487179487
+1372	The Top 10 of Classical Music: 1894-1928	The Top 10 of Classical Music, 1877-1893	0.85
+1373	The Top 10 of Classical Music: 1894-1928	The Top 10 of Classical Music, 1776-1787	0.825
+1374	The Top 10 of Classical Music, 1877-1893	The Top 10 of Classical Music, 1776-1787	0.875
+1375	Meditation: Classical Relaxation Vol. 2	Meditation: Classical Relaxation Vol. 1	0.9743589743589743
+1376	Meditation: Classical Relaxation Vol. 2	Meditation: Classical Relaxation Vol. 10	0.9487179487179487
+1377	Meditation: Classical Relaxation Vol. 1	Meditation: Classical Relaxation Vol. 10	0.9743589743589743
+1378	The Nat King Cole Trio Recordings, Vol. 1	Nat King Cole Trio Recordings, Vol. 3	0.8780487804878049
+1379	The Nat King Cole Trio Recordings, Vol. 1	The Nat King Cole Trio Recordings, Vol. 4	0.975609756097561
+1380	The Nat King Cole Trio Recordings, Vol. 1	The Nat King Cole Trio Recordings, Vol. 2	0.975609756097561
+1381	Nat King Cole Trio Recordings, Vol. 3	The Nat King Cole Trio Recordings, Vol. 4	0.8648648648648649
+1382	Nat King Cole Trio Recordings, Vol. 3	The Nat King Cole Trio Recordings, Vol. 2	0.8648648648648649
+1383	Jazz Collector's Edition	Jazz Collector Edition	0.9166666666666666
+1384	The Nat King Cole Trio Recordings, Vol. 4	The Nat King Cole Trio Recordings, Vol. 2	0.975609756097561
+1385	Happy Birthday 2	Happy Birthday 1-5	0.8125
+1386	Slow Love	Show Love	0.8888888888888888
+1387	Masters Of Classical Music: Verdi	Masters Of Classical Music: Chopin	0.8484848484848485
+1388	Masters Of Classical Music: Verdi	Masters Of Classical Music: Vivaldi	0.8787878787878788
+1389	Masters Of Classical Music: Verdi	Masters Of Classical Music: Mozart	0.8181818181818181
+1390	Masters Of Classical Music: Verdi	Masters Of Classical Music: Wagner	0.8181818181818181
+1391	Masters Of Classical Music: Schubert	Masters Of Classical Music: Chopin	0.8055555555555556
+1392	Masters Of Classical Music: Schubert	Masters Of Classical Music: Mozart	0.8333333333333334
+1393	Masters Of Classical Music: Schubert	Masters Of Classical Music: Wagner	0.8333333333333334
+1394	Weaver of Dreams	River of Dreams	0.8125
+1395	Masters Of Classical Music: Chopin	Masters Of Classical Music: Beethoven	0.8235294117647058
+1396	Masters Of Classical Music: Chopin	Masters Of Classical Music: Mozart	0.8235294117647058
+1397	Masters Of Classical Music: Chopin	Masters Of Classical Music: Wagner	0.8235294117647058
+1398	Masters Of Classical Music: Vivaldi	Masters Of Classical Music: Mozart	0.8285714285714285
+1399	Symphonien 1-4	Symphonies 1-9	0.8571428571428572
+1400	Masters Of Classical Music: Mozart	Masters Of Classical Music: Wagner	0.8235294117647058
+1401	Celtic Roots Festival 2	Celtic Roots Festival 3	0.9565217391304348
+1402	Mozart: 11 Overtures	Mozart: Overtures	0.85
+1403	Mozart Early Symphonies 1	Mozart Early Symphonies 2	0.96
+1404	Blues Masters 1: Essential History [VHS]	Blues Masters 2: Essential History [VHS]	0.975
+1405	Relaxation & Meditation With Music & Nature, Part 1 (5 CDs)	Relaxation & Meditation With Music & Nature, Part 2 (5 CDs)	0.9830508474576272
+1406	Relaxation & Meditation With Music & Nature, Part 1 (5 CDs)	Relaxation & Meditation With Music & Nature, Part 3 (5 CDs)	0.9830508474576272
+1407	Karaoke Music CDG: Pop Hits Monthly Country February 2003 CDG	Karaoke Music CDG: Pop Hits Monthly Country April 2003 CDG	0.8852459016393442
+1408	Relaxation & Meditation With Music & Nature, Part 2 (5 CDs)	Relaxation & Meditation With Music & Nature, Part 3 (5 CDs)	0.9830508474576272
+1409	Everything I Longed for	Everything I Long For	0.8695652173913043
+1410	Roger Whittaker - Greatest Hits	Roger Whittaker - Greatest Hits Live	0.8387096774193549
+1411	Beethoven: Symphonies Nos. 2 & 6	Beethoven: Symphonies 2 & 4	0.8125
+1412	Puccini: La Bohme	Puccini: La Boheme	0.9411764705882353
+1413	Moving Target	Moving Targets	0.9230769230769231
+1414	Celtic Mysteries	Celtic Mysteries II	0.8125
+1415	Chicago Blues Bash	Chicago Blues Band	0.8888888888888888
+1416	The End Of Violence: Score From The Motion Picture Soundtrack	The End Of Violence: Songs From The Motion Picture Soundtrack	0.9344262295081968
+1417	Recordando Los Relampagos	Recordando a Los Relampagos	0.92
+1418	The Complete Works of Scott Joplin, Vol. 5	Complete Works Of Scott Joplin, Vol. 2	0.8571428571428572
+1419	Midnight Blues	Midnight Blue	0.9285714285714286
+1420	On The Other Side	The Other Side	0.8235294117647058
+1421	Rumba Lessons: Dance Like a Star	Salsa Lessons: Dance Like a Star	0.875
+1422	Rumba Lessons: Dance Like a Star	Tango Lessons: Dance Like a Star	0.84375
+1423	Salsa Lessons: Dance Like a Star	Tango Lessons: Dance Like a Star	0.875
+1424	Blue Marble	Blue Fable	0.8181818181818181
+1425	Grace [Vinyl]	Trance [Vinyl]	0.8461538461538461
+1426	Y Es Facil	Y Es Facil!	0.9
+1427	Classics	Classic	0.875
+1428	Hi-Nrg Dance Classics 1	Hi-Nrg Dance Classics 2	0.9565217391304348
+1429	Dreamin	Dreamin'	0.8571428571428572
+1430	Divas of Dance 2	Divas of Dance 4	0.9375
+1431	Divas of Dance 2	Divas of Dance 5	0.9375
+1432	Divas of Dance 2	Divas of Dance 3	0.9375
+1433	Divas of Dance 4	Divas of Dance 5	0.9375
+1434	Divas of Dance 4	Divas of Dance 3	0.9375
+1435	House of Love	House of Love 2	0.8461538461538461
+1436	Divas of Dance 5	Divas of Dance 3	0.9375
+1437	Collections	Collection 3	0.8181818181818181
+1438	Mark-Almond I	Mark-Almond 2	0.9230769230769231
+1439	I Love Cat Machines Parts 3 and 4 (2003)	I Love Cat Machines Parts 1 and 2 (2003)	0.95
+1440	Fire on the Oracle	Fire of the Oracle	0.9444444444444444
+1441	Teardrops Pt.1	Teardrops Pt.2	0.9285714285714286
+1442	Learned From the Best	I Learned From The Best	0.8571428571428572
+1443	I Can't Help It	Can't Help It	0.8666666666666667
+1444	Temperamental (Remixed By Hex Hector) (LP Single)	Temperamental (Remixed By DJ Spen) (LP Single)	0.8163265306122449
+1445	The Blues and the Abstract Truth	Blues And The Abstract Truth	0.8125
+1446	The Blues and the Abstract Truth	More Blues And The Abstract Truth	0.84375
+1447	Blues And The Abstract Truth	More Blues And The Abstract Truth	0.8214285714285714
+1448	Mahler: Symphony No.6	Mahler: Symphony No. 4	0.9047619047619048
+1449	Mahler: Symphony No.6	Mahler: Symphony No. 10	0.8571428571428572
+1450	Mahler: Symphony No.6	Mahler: Symphony No. 5	0.9047619047619048
+1451	A Playdate With Blue	Playdate With Blue	0.9
+1452	It's Time	Its Time	0.8888888888888888
+1453	Mozart Overtures	Mozart: Overtures	0.9375
+1454	Black Unity	Black City	0.8181818181818181
+1455	Live At The Village Vanguard Again	Live at Village Vanguard Again	0.8529411764705882
+1456	21st Century Pt.2	21st Century Pt.1	0.9411764705882353
+1457	Sibelius: Symphonies Nos. 5 & 7	Sibelius: Symphonies Nos. 3 & 5	0.935483870967742
+1458	Elgar: Cello Concerto / Sea Pictures	Elgar: Cello Concerto; Sea Pictures	0.9444444444444444
+1459	Mahler: Songs of a Wayfarer / Kindertotenlieder / Ruckert Lieder	Mahler: Songs of a Wayfarer; Kindertotenlieder Nos 1-5; Rckert Lieder	0.828125
+1460	Symphony 8	Symphony 7	0.9
+1461	Symphony 8	Symphony 5	0.9
+1462	Le Nozze Di Figaro	La Nozze Di Figaro	0.9444444444444444
+1463	Tribute	Tributo	0.8571428571428572
+1464	Putumayo Presents the Best of World, Vol. 2: Instrumental	Putumayo Presents the Best of World, Vol. 1: World Vocal	0.8070175438596492
+1465	Ravel: Orchestral Works	Wagner: Orchestral Works	0.8260869565217391
+1466	Christmas Stories	Christmas Cookies	0.8235294117647058
+1467	Feedback to the Future [Vinyl]	Black to the Future [Vinyl]	0.8333333333333334
+1468	Mahler: Symphony No. 4	Mahler: Symphony No. 10	0.9090909090909091
+1469	Mahler: Symphony No. 4	Mahler: Symphony No. 5	0.9545454545454546
+1470	Mahler: Symphony No. 10	Mahler: Symphony No. 5	0.9130434782608696
+1471	Maria Callas - La Divina	Maria Callas: La Divina 3	0.8333333333333334
+1472	La Divina 2	La Divina 3	0.9090909090909091
+1473	Backdraft [Original Motion Picture Soundtrack]	Bagdad Cafe: Original Motion Picture Soundtrack	0.8043478260869565
+1474	Live From the Ill Ep	Live From the Ill	0.85
+1475	Bach: Cello Suites Nos. 1, 4, 5	Bach: Cello Suites Nos. 2, 3, 6	0.9032258064516129
+1476	Bartok: Bluebeard's Castle	Bartk: Bluebeard's Castle	0.9615384615384616
+1477	His Greatest Hits	30 Greatest Hits	0.8235294117647058
+1478	His Greatest Hits	The Greatest Hits	0.8235294117647058
+1479	Wolf: Italienisches Liederbuch [Italian Songbook]	Hugo Wolf: Italienisches Liederbuch (Italian Songbook)	0.8571428571428572
+1480	Symphony 7	Symphony 5	0.9
+1481	Beethoven: Piano Concertos 1 & 2	Beethoven: Piano Concerto No 5	0.84375
+1482	Beethoven: Piano Concertos 1 & 2	Beethoven: Piano Concertos No. 2 & 4	0.8125
+1483	Engine	Engines	0.8333333333333334
+1484	Verdi: Messa da Requiem	Verdi Messa Da Requiem	0.9130434782608696
+1485	Dvorak: Symphony No. 7	Dvorak: Symphony No. 9	0.9545454545454546
+1486	When [Vinyl]	Amen [Vinyl]	0.8333333333333334
+1487	CELIBIDACHE / Mnchner Philharmoniker - Schumann: Symphonies Nos. 3 & 4	CELIBIDACHE / Mnchner Philharmoniker - Schubert: Symphony No. 9	0.8142857142857143
+1488	Anton Bruckner: Symphony No. 6 - Sir Colin Davis / London Symphony Orchestra	Sir Edward Elgar: Symphony No. 2 - Sir Colin Davis / London Symphony Orchestra	0.8026315789473684
+1489	Anton Bruckner: Symphony No. 6 - Sir Colin Davis / London Symphony Orchestra	Anton Bruckner: Symphony No. 9 - Sir Colin Davis / London Symphony Orchestra	0.9868421052631579
+1490	Sir Edward Elgar: Symphony No. 2 - Sir Colin Davis / London Symphony Orchestra	Anton Bruckner: Symphony No. 9 - Sir Colin Davis / London Symphony Orchestra	0.8076923076923077
+1491	Under His Wings / Searching the Heart of the Fathe	Under His Wings / Searching the Heart of the Father	0.98
+1492	4 Seasons	4 Seasonz	0.8888888888888888
+1493	Stand up and Be Counted	Stand Up & Be Counted	0.8260869565217391
+1494	Tribute to the Masters	Tribute to the Past	0.8181818181818181
+1495	All the King's Men	All The King's Men	0.9444444444444444
+1496	Horns of Plenty Part 3	Horns of Plenty Part 2	0.9545454545454546
+1497	Singer's Dream Karaoke SKD9515 DVD - Christmas Memories	Singer's Dream Karaoke SKD9514 DVD - Kids Christmas Favorites	0.8181818181818181
+1498	Singer's Dream Karaoke SKD9515 DVD - Christmas Memories	Singer's Dream Karaoke SKD9516 DVD - Christmas Classics	0.8727272727272728
+1499	Viva Los Straitjackets	Viva! Los Straitjackets	0.9545454545454546
+1500	In Moskow	In Moscow	0.8888888888888888
+1501	Palm World Voices: Africa [CD, DVD, Book & Map]	Palm World Voices: Baaba Maal [CD, DVD, Book & Map]	0.8085106382978724
+1502	Why Pt.1	Why Pt.2	0.875
+1503	Inolvidables RCA: 20 Grandes Exitos	Inolvidables Rca: 20 Grandes Exitos	0.9428571428571428
+1504	Inolvidables Rca: 20 Grandes Exitos	Inolvidables Rca 20 Grandes Ex	0.8571428571428572
+1505	30 Greatest Hits	The Greatest Hits	0.8125
+1506	Beethoven: Symphonies 2 & 4	Beethoven: Symphonies 5 & 7	0.9259259259259259
+1507	Hans Hotter Lieder Recital	Hans Hotter Wolf Lieder Recital	0.8076923076923077
+1508	Soar [Vinyl]	Roam [Vinyl]	0.8333333333333334
+1509	Soar [Vinyl]	Star [Vinyl]	0.9166666666666666
+1510	Beethoven: Symphonies Nos. 1-3- Eroica	Beethoven: Symphony No. 3, Eroica	0.8157894736842105
+1511	Beyond Thee Infinite Beat [Vinyl]	Towards Thee Infinite Beat [Vinyl]	0.8181818181818181
+1512	What Do You Know, Deutschland?	What Do You Know Deutschland?	0.9666666666666667
+1513	Celebrate Dogmas!	Celebrate Catmas!	0.8235294117647058
+1514	The Dance Classic Showcase Volume 7	The Dance Classic Showcase Volume 6	0.9714285714285714
+1515	The Dance Classic Showcase Volume 7	The Dance Classic Showcase Volume 3	0.9714285714285714
+1516	The Dance Classic Showcase Volume 7	The Dance Classic Showcase Volume 8	0.9714285714285714
+1517	The Dance Classic Showcase Volume 6	The Dance Classic Showcase Volume 3	0.9714285714285714
+1518	The Dance Classic Showcase Volume 6	The Dance Classic Showcase Volume 8	0.9714285714285714
+1519	The Dance Classic Showcase Volume 3	The Dance Classic Showcase Volume 8	0.9714285714285714
+1520	Vogue [Vinyl]	Bogle [Vinyl]	0.8461538461538461
+1521	Ten Days From Never	Ten Days from Never	0.9473684210526316
+1522	Peter, Paul and Mary [Vinyl]	Peter, Paul and Mommy [Vinyl]	0.8928571428571429
+1523	Brahms, Dvorak: Violin Concertos	Brahms, Bruch: Violin Concertos	0.8125
+1524	Tintal Laharas (Nagma): For Tabla Practice and Performance (G)	Tintal Laharas (Nagma): For Tabla Practice and Performance (C#)	0.967741935483871
+1525	The Standard Deviants: Accounting, Part 1 [VHS]	The Standard Deviants: Accounting, Part 2 [VHS] (2000)	0.8297872340425532
+1526	Round & Round [Vinyl]	Round and Round [Vinyl]	0.8571428571428572
+1527	Remixes 2	Remixes 3	0.8888888888888888
+1528	Freestyle Explosion 4	Freestyle Explosion 1-5	0.8571428571428572
+1529	Sacred Chants - Vol 1	Sacred Chants - Vol 3	0.9523809523809523
+1530	Sacred Chants - Vol 1	Sacred Chants - Vol 2	0.9523809523809523
+1531	Nova Latino 7	Nova Latino	0.8461538461538461
+1532	Sacred Chants - Vol 3	Sacred Chants - Vol 2	0.9523809523809523
+1533	The Bog [Vinyl]	The Top [Vinyl]	0.8666666666666667
+1534	Idol Pt.1	Idol Pt.2	0.8888888888888888
+1535	Mad About the Boy 5	Mad About the Boy 7	0.9473684210526316
+1536	Jazz for Toddlers I	Jazz for Toddlers II	0.9473684210526316
+1537	How Can I Keep From Singing 1	How Can I Keep From Singing 2	0.9655172413793104
+1538	Before The Blues: The Early American Black Music Scene, Vol. 3	Before The Blues: The Early American Black Music Scene, Vol. 2	0.9838709677419355
+1539	Before The Blues: The Early American Black Music Scene, Vol. 3	Before The Blues: The Early American Black Music Scene, Vol. 1	0.9838709677419355
+1540	Before The Blues: The Early American Black Music Scene, Vol. 2	Before The Blues: The Early American Black Music Scene, Vol. 1	0.9838709677419355
+1541	Jazz the World Forgot, Vol. 1	Jazz the World Forgot, Vol. 2	0.9655172413793104
+1542	The Secret Museum Of Mankind, Vol. 3: Ethnic Music Classics 1925-1948	The Secret Museum Of Mankind, Vol. 2: Ethnic Music Classics 1925-1948	0.9855072463768116
+1543	The Secret Museum Of Mankind, Vol. 3: Ethnic Music Classics 1925-1948	The Secret Museum Of Mankind, Vol. 1: Ethnic Music Classics 1925-1948	0.9855072463768116
+1544	I Can't Be Satisfied 1	I Can't Be Satisfied 2	0.9545454545454546
+1545	The Secret Museum Of Mankind, Vol. 2: Ethnic Music Classics 1925-1948	The Secret Museum Of Mankind, Vol. 1: Ethnic Music Classics 1925-1948	0.9855072463768116
+1546	A Portrait Is Forever	Portrait Is Forever	0.9047619047619048
+1547	Ruckus Juice & Chitlins 1	Ruckus Juice & Chitlins 2	0.96
+1548	Fire In The Mountains, Polish Mountain Fiddle Music, Vol. 2: The Great Highland Bands, Classic Recordings From 1927-50's	Fire In The Mountains, Polish Mountain Fiddle Music, Vol. 1: The Karol Stoch Band, Classic Recordings From 1928-29	0.8333333333333334
+1549	Best of Pooh & Tigger Too	Best of Pooh and Tigger Too	0.88
+1550	Transatlantik Lounging 4	Transatlantik Lounging	0.9166666666666666
+1551	Klone Ikons	Klone Ikons 4	0.8181818181818181
+1552	Klone Ikons, Vol. 2	Klone Ikons, Vol. 3	0.9473684210526316
+1553	Karaoke Mega CDG - Best Duets Vol 1 - MDG-001	Karaoke Mega CDG - Best Duets Vol 3 - MDG-003	0.9555555555555556
+1554	Happy Birthday From Sesame Street (Jewel Case)	Happy Birthday From Sesame Street (Blister Pack)	0.8043478260869565
+1555	Goa Trance: Psychedlic Flashbacks #2	Goa Trance: Psychedelic Flashbacks	0.8888888888888888
+1556	Goa Trance: Psychedlic Flashbacks #2	Trance: Psychedelic Flashbacks 4	0.8055555555555556
+1557	Goa Trance: Psychedelic Flashbacks	Trance: Psychedelic Flashbacks 4	0.8235294117647058
+1558	Jazz in the House V.8	Jazz in the House V.1	0.9523809523809523
+1559	Jazz in the House V.8	Jazz in the House V.3	0.9523809523809523
+1560	Jazz in the House V.8	Jazz in the House V.5	0.9523809523809523
+1561	Jazz in the House V.8	Jazz in the House V.6	0.9523809523809523
+1562	Jazz in the House V.1	Jazz in the House V.3	0.9523809523809523
+1563	Jazz in the House V.1	Jazz in the House V.5	0.9523809523809523
+1564	Jazz in the House V.1	Jazz in the House V.6	0.9523809523809523
+1565	Jazz in the House V.3	Jazz in the House V.5	0.9523809523809523
+1566	Jazz in the House V.3	Jazz in the House V.6	0.9523809523809523
+1567	Jazz in the House V.5	Jazz in the House V.6	0.9523809523809523
+1568	Bill Nye the Science Guy: Probability Classroom Edition [Interactive DVD] (1996)	Bill Nye the Science Guy: The Planets Classroom Edition [Interactive DVD] (1995)	0.8625
+1569	Signature Series, Vol. 2	Signature Series, Vol. 1	0.9583333333333334
+1570	Signature Series, Vol. 2	Signature Series, Vol. 3	0.9583333333333334
+1571	Vol. 1-Complete Chi-Lites on Brunswick Records	Vol. 2-Complete Chi-Lites on Brunswick Records	0.9782608695652174
+1572	Signature Series, Vol. 1	Signature Series, Vol. 3	0.9583333333333334
+1573	Mis 30 Mejores Canciones	30 Mejores Canciones	0.8333333333333334

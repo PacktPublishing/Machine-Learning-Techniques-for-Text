@@ -76,6 +76,3 @@ The target audience of this book is professionals in the area of computer scienc
 * [SciPy](https://scipy.org)
 * [seaborn](https://seaborn.pydata.org)
 * [TensorFlow](https://www.tensorflow.org)
-
-
-* Added YAML environment file and requirements.txt files for each chapter

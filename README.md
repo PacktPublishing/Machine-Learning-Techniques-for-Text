@@ -98,13 +98,27 @@ The target audience of this book is professionals in the area of computer scienc
 
 ### Python Libraries & Frameworks Covered
 
+* [ConvoKit](https://convokit.cornell.edu/)
+* [Gensim](https://radimrehurek.com/gensim/)
+* [Gradio](https://gradio.app/)
+* [fastText](https://fasttext.cc/)
+* [Keras](https://keras.io/)
 * [Matplotlib](https://matplotlib.org)
+* [NetworkX](https://networkx.org/)
+* [NLTK](https://www.nltk.org/)
+* [NumPy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org)
 * [PyTorch](https://pytorch.org)
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [SciPy](https://scipy.org)
+* [Scrapy](https://scrapy.org/)
 * [seaborn](https://seaborn.pydata.org)
+* [spaCy](https://spacy.io/)
+* [Sumy](https://miso-belica.github.io/sumy/)
 * [TensorFlow](https://www.tensorflow.org)
+* [trl](https://lvwerra.github.io/trl/)
+
+
 
 
 ### Download a free PDF

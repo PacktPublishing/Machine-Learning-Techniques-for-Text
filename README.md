@@ -110,7 +110,7 @@ The target audience of this book is professionals in the area of computer scienc
 ### Download a free PDF
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801075541">https://packt.link/free-ebook/9781803242385</a> </p>
+<p align="center"> <a href="https://download.packt.com/free-ebook/9781803242385">https://packt.link/free-ebook/9781803242385</a> </p>
 
 
 

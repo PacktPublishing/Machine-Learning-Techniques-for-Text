@@ -1,0 +1,10 @@
+With the ever-increasing demand for machine learning and programming professionals, it's prime time to invest in the field. 
+This book will help you in this endeavor, focusing specifically on text data and human language by steering a middle path among the various textbooks that present complicated theoretical concepts or focus disproportionately on Python code.
+A good metaphor this work builds upon is the relationship between an experienced craftsperson and their trainee.
+Based on the current problem, the former picks a tool from the toolbox, explains its utility, and puts it into action. 
+This approach will help you to identify at least one practical use for each method or technique presented. 
+The content unfolds in ten chapters, each discussing one specific case study. 
+For this reason, the book is solution-oriented.
+It's accompanied by Python code in the form of Jupyter notebooks to help you obtain hands-on experience.
+A recurring pattern in the chapters of this book is helping you get some intuition on the data and then implement and contrast various solutions.
+By the end of this book, you'll be able to understand and apply various techniques with Python for text preprocessing, text representation, dimensionality reduction, machine learning, language modeling, visualization, and evaluation.

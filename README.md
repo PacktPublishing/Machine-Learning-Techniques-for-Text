@@ -104,7 +104,7 @@ The target audience of this book is professionals in the area of computer scienc
 
 [Notebooks](https://colab.research.google.com/github/PacktPublishing/Machine-Learning-Techniques-for-Text/)
 
-<u>Notice</u> that a Google account is required.
+Notice that a Google account is required.
 
 
 ### Python Libraries & Frameworks Covered
@@ -146,7 +146,7 @@ The target audience of this book is professionals in the area of computer scienc
 * [torchdata](https://pypi.org/project/torchdata/)
 * [torchtext](https://pypi.org/project/torchtext/)
 * [transformers](https://pypi.org/project/transformers/)
-* [trl](https://lvwerra.github.io/trl/)
+* [trl](https://github.com/huggingface/trl)
 * [wget](https://pypi.org/project/wget/)
 * [wikipedia](https://pypi.org/project/wikipedia/)
 * [wikipedia_sections](https://pypi.org/project/wikipedia-sections/)

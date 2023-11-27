@@ -102,7 +102,7 @@ The target audience of this book is professionals in the area of computer scienc
 
 [Google Colab](https://colab.research.google.com/) is a cloud-based platform that allows users to write and execute Python code in a collaborative environment. Running the provided code in Google Colab is straightforward. You can choose a notebook from the book by following this link: 
 
-[Notebooks](https://colab.research.google.com/github/PacktPublishing/Machine-Learning-Techniques-for-Text/blob/main/)
+[Notebooks](https://colab.research.google.com/github/PacktPublishing/Machine-Learning-Techniques-for-Text/)
 
 <u>Notice</u> that a Google account is required.
 

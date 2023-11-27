@@ -98,6 +98,14 @@ The target audience of this book is professionals in the area of computer scienc
 	> Chapter 10, "Clustering Speech-to-Text Transcriptions", performs clustering on transcribed speech to assign them into different groups. We use a system that can automatically transform human speech into text and examine how to assess its performance using WER. The clustering methods introduced are hierarchical clustering, k-means, and DBSCAN. Finally, there is a relevant discussion on how to choose the optimal number of clusters. The chapter concludes by applying soft clustering and LDA to identify the topics in the dataset.
 
 
+### How to run the code
+
+[Google Colab](https://colab.research.google.com/) is a cloud-based platform that allows users to write and execute Python code in a collaborative environment. Running the provided code in Google Colab is straightforward. You can choose a notebook from the book by following this link: 
+
+[Notebooks](https://colab.research.google.com/github/PacktPublishing/Machine-Learning-Techniques-for-Text/blob/main/)
+
+<u>Notice</u> that a Google account is required.
+
 
 ### Python Libraries & Frameworks Covered
 

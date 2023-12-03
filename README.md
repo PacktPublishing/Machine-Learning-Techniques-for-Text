@@ -104,6 +104,8 @@ The target audience of this book is professionals in the area of computer scienc
 
 [Notebooks](https://colab.research.google.com/github/PacktPublishing/Machine-Learning-Techniques-for-Text/)
 
+The code has been tested using Python 3.10.12.
+
 Notice that a Google account is required.
 
 

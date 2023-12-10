@@ -155,6 +155,11 @@ The code has been tested using Python 3.10.12.
 * [word_cloud](https://github.com/amueller/word_cloud)
 
 
+### Contact the author
+
+For any questions, comments, or assistance about this work, feel free to contact me at nikos@tsourakis.net
+The relevant PowerPoint presentations can be provided upon request.
+
 
 ### Download a free PDF
 
